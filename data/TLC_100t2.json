@@ -1,1 +1,51 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_100t2","dbfId":117760,"name":"공포의 터","type":"LOCATION","cardClass":"NEUTRAL","collectible":false,"cost":5,"text":"","attack":0,"health":2,"durability":2,"armor":0,"flavor":"","spellSchool":"","portrait":"HS35-114_L.tif:e0311c5fff6c4c99a43c156626c6e47d","set":"THE_LOST_CITY","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":39},{"id":1342,"name":"발견 시각 효과","value":1}],"races":[],"race":"","classes":[],"art":"art/TLC_100t2.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-114_L.tif:e0311c5fff6c4c99a43c156626c6e47d","goldenMaterial":"TLC_100t2_PremiumCard.mat:dbef547e219d33c438a230eba592c7e7","goldenAnimation":"TLC_100t2_PremiumCard.asset:18e41efc07e6c3d4b8cb907b8550e45b"}}
+{
+  "2025-07-09": {
+    "id": "TLC_100t2",
+    "dbfId": 117760,
+    "name": "공포의 터",
+    "type": "LOCATION",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 5,
+    "text": "",
+    "attack": 0,
+    "health": 2,
+    "durability": 2,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS35-114_L.tif:e0311c5fff6c4c99a43c156626c6e47d",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 39
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_100t2.png"
+  }
+}

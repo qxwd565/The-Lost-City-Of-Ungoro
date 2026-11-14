@@ -1,1 +1,89 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_245","dbfId":118224,"name":"고대 랩터","type":"MINION","cardClass":"NEUTRAL","rarity":"EPIC","collectible":true,"cost":2,"text":"<b>전투의 함성:</b> 공격력 +3,\n<b>천상의 보호막</b>, \"<b>죽음의 메아리:</b>\n1/1 식물을 둘 소환합니다.\" 중\n하나를 선택하여 얻습니다.","attack":2,"health":1,"durability":0,"armor":0,"flavor":"\"경험 많은 랩터\"라는 명칭을 선호합니다.","spellSchool":"","portrait":"HS35-090_M.tif:d61a69c24e6246fcb3b456fc77acc4fe","set":"THE_LOST_CITY","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":194,"name":"천상의 보호막","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":217,"name":"죽음의 메아리","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":2589,"name":"간판 카드 존재","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/TLC_245.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-090_M.tif:d61a69c24e6246fcb3b456fc77acc4fe","goldenMaterial":"TLC_245_PremiumCard.mat:f343fdfc48768bb4c9e0311d15c8d16c","goldenAnimation":"TLC_245_PremiumCard.asset:8e138961b831a114b85223ffcc9b357a"}}
+{
+  "2025-07-09": {
+    "id": "TLC_245",
+    "dbfId": 118224,
+    "name": "고대 랩터",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>전투의 함성:</b> 공격력 +3,<br></br><b>천상의 보호막</b>, \"<b>죽음의 메아리:</b><br></br>1/1 식물을 둘 소환합니다.\" 중<br></br>하나를 선택하여 얻습니다.",
+    "attack": 2,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"경험 많은 랩터\"라는 명칭을 선호합니다.",
+    "spellSchool": "",
+    "portrait": "HS35-090_M.tif:d61a69c24e6246fcb3b456fc77acc4fe",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 194,
+        "name": "천상의 보호막",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/TLC_245.png"
+  }
+}

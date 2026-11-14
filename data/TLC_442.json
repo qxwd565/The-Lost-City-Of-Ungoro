@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_442","dbfId":117665,"name":"가라앉은 지도","type":"SPELL","cardClass":"PALADIN","rarity":"COMMON","collectible":true,"cost":1,"text":"멀록을 <b>발견</b>합니다. 이번 턴에 그 멀록을 내면, 나머지 멀록 중 하나도 선택합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"라토르비아로 똑바로 이어집니다. 얼마나 오랫동안 숨을 참을 수 있을까요?","spellSchool":"","portrait":"HS35-149_S.tif:6b923353d495436ba9ff29e7506a6e1f","set":"THE_LOST_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":415,"name":"발견","value":1},{"id":1342,"name":"발견 시각 효과","value":1}],"races":[],"race":"","classes":[],"art":"art/TLC_442.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-149_S.tif:6b923353d495436ba9ff29e7506a6e1f","goldenMaterial":"TLC_442_PremiumCard.mat:7eee91db00ea2eb4386f4d430760044b","goldenAnimation":"TLC_442_PremiumCard.asset:d4c3d045c44ff1d458d67e39e576700e"}}
+{
+  "2025-07-09": {
+    "id": "TLC_442",
+    "dbfId": 117665,
+    "name": "가라앉은 지도",
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "멀록을 <b>발견</b>합니다. 이번 턴에 그 멀록을 내면, 나머지 멀록 중 하나도 선택합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "라토르비아로 똑바로 이어집니다. 얼마나 오랫동안 숨을 참을 수 있을까요?",
+    "spellSchool": "",
+    "portrait": "HS35-149_S.tif:6b923353d495436ba9ff29e7506a6e1f",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_442.png"
+  }
+}

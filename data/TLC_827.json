@@ -1,1 +1,69 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_827","dbfId":117600,"name":"풀 뜯는 스테고돈","type":"MINION","cardClass":"HUNTER","rarity":"RARE","collectible":true,"cost":3,"text":"내 턴이 끝날 때 공격력을 +1 얻습니다. <i>(손이나 덱에 있을 때도)</i>","attack":0,"health":5,"durability":0,"armor":0,"flavor":"한창 자랄 나이죠. :)","spellSchool":"","portrait":"HS35-027_M.tif:dd7311ff5c93425da7a9c3eeee46fc5e","set":"THE_LOST_CITY","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":5},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":3},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/TLC_827.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-027_M.tif:dd7311ff5c93425da7a9c3eeee46fc5e","goldenMaterial":"TLC_827_PremiumCard.mat:851cb9df413570648b7314f26114f590","goldenAnimation":"TLC_827_PremiumCard.asset:ba58900a9e7e5824584df8916103080f"}}
+{
+  "2025-07-09": {
+    "id": "TLC_827",
+    "dbfId": 117600,
+    "name": "풀 뜯는 스테고돈",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "내 턴이 끝날 때 공격력을 +1 얻습니다. <i>(손이나 덱에 있을 때도)</i>",
+    "attack": 0,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "한창 자랄 나이죠. :)",
+    "spellSchool": "",
+    "portrait": "HS35-027_M.tif:dd7311ff5c93425da7a9c3eeee46fc5e",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/TLC_827.png"
+  }
+}

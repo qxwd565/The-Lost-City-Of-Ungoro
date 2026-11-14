@@ -1,1 +1,95 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_102","dbfId":117848,"name":"토르가","type":"MINION","cardClass":"NEUTRAL","rarity":"LEGENDARY","collectible":true,"cost":4,"text":"<b>전투의 함성</b>: <b>유사</b> 카드를\n뽑고 그 카드를 활성화하는\n카드를 추가로 뽑습니다.","attack":2,"health":7,"durability":0,"armor":0,"flavor":"토르가는 죽임을 당하고, 잡아먹히고, 언데드를 소환하는 데 사용되고, 다시 영혼들의 대변자로 이용되었습니다. 적어도 이야기할 만한 사연이 많다고는 할 수 있겠네요.","spellSchool":"","portrait":"HS35-104_M.tif:c9a09207b2794a3fb223d4463bceceb4","set":"THE_LOST_CITY","nativeTags":[{"id":45,"name":"생명력","value":7},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":4},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":2534,"name":"게임 태그 2534","value":1},{"id":2589,"name":"간판 카드 존재","value":1},{"id":4028,"name":"유사","value":1}],"races":["UNDEAD","BEAST"],"race":"언데드, 야수","classes":[],"art":"art/TLC_102.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-104_M.tif:c9a09207b2794a3fb223d4463bceceb4","goldenMaterial":"TLC_102_PremiumCard.mat:69bbbb0dd3c0d244199b66de7c8179e7","goldenAnimation":"TLC_102_PremiumCard.asset:027e18b817a19cc41bdd10ea262cace5"}}
+{
+  "2025-07-09": {
+    "id": "TLC_102",
+    "dbfId": 117848,
+    "name": "토르가",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>전투의 함성</b>: <b>유사</b> 카드를<br></br>뽑고 그 카드를 활성화하는<br></br>카드를 추가로 뽑습니다.",
+    "attack": 2,
+    "health": 7,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "토르가는 죽임을 당하고, 잡아먹히고, 언데드를 소환하는 데 사용되고, 다시 영혼들의 대변자로 이용되었습니다. 적어도 이야기할 만한 사연이 많다고는 할 수 있겠네요.",
+    "spellSchool": "",
+    "portrait": "HS35-104_M.tif:c9a09207b2794a3fb223d4463bceceb4",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 7
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2534,
+        "name": "게임 태그 2534",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      },
+      {
+        "id": 4028,
+        "name": "유사",
+        "value": 1
+      }
+    ],
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "race": "언데드, 야수",
+    "classes": [],
+    "art": "art/TLC_102.png"
+  }
+}

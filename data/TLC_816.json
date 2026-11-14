@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_816","dbfId":117317,"name":"묘지새벽 태양꽃","type":"SPELL","cardClass":"PRIEST","rarity":"COMMON","collectible":true,"cost":4,"text":"카드를 2장 뽑습니다.\n<b>유사:</b> 이 주문의 비용이\n(2) 감소합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"워낙 신성해서 스스로 광합성을 할 수 있습니다!","spellSchool":"HOLY","portrait":"HS35-045_S.tif:8f67e63f129e4164b5349288ffe10f53","set":"THE_LOST_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":5},{"id":4028,"name":"유사","value":1}],"races":[],"race":"","classes":[],"art":"art/TLC_816.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-045_S.tif:8f67e63f129e4164b5349288ffe10f53","goldenMaterial":"TLC_816_PremiumCard.mat:9ccfc23793dbb7549b9f490d3b5f4cb1","goldenAnimation":"TLC_816_PremiumCard.asset:36ab7216e65215341a1fd9affdf51210"}}
+{
+  "2025-07-09": {
+    "id": "TLC_816",
+    "dbfId": 117317,
+    "name": "묘지새벽 태양꽃",
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 4,
+    "text": "카드를 2장 뽑습니다.<br></br><b>유사:</b> 이 주문의 비용이<br></br>(2) 감소합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "워낙 신성해서 스스로 광합성을 할 수 있습니다!",
+    "spellSchool": "HOLY",
+    "portrait": "HS35-045_S.tif:8f67e63f129e4164b5349288ffe10f53",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 5
+      },
+      {
+        "id": 4028,
+        "name": "유사",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_816.png"
+  }
+}

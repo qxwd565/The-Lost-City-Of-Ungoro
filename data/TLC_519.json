@@ -1,1 +1,82 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_519","dbfId":118580,"name":"포식자 기습","type":"SPELL","cardClass":"ROGUE","rarity":"RARE","collectible":true,"cost":3,"text":"<b>은신</b>과 <b>독성</b> 능력을 가진 1/1 독 뱉는 공룡을 소환합니다.\n<b>유사:</b> 반복합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"이러니까 멸종되는 거죠.","spellSchool":"SHADOW","portrait":"HS35-166_S.tif:5d4623e561eb47c8b12950b8e2b2efa4","set":"THE_LOST_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":3},{"id":191,"name":"은신","value":1},{"id":199,"name":"직업","value":7},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":363,"name":"독성","value":1},{"id":1635,"name":"주문 속성","value":6},{"id":2589,"name":"간판 카드 존재","value":1},{"id":4028,"name":"유사","value":1}],"races":[],"race":"","classes":[],"art":"art/TLC_519.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-166_S.tif:5d4623e561eb47c8b12950b8e2b2efa4","goldenMaterial":"TLC_519_PremiumCard.mat:3604b3a2f0c30b448856e4c25541f06e","goldenAnimation":"TLC_519_PremiumCard.asset:1b7fd8a1a69ec90458ff9b0b53610943"}}
+{
+  "2025-07-09": {
+    "id": "TLC_519",
+    "dbfId": 118580,
+    "name": "포식자 기습",
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>은신</b>과 <b>독성</b> 능력을 가진 1/1 독 뱉는 공룡을 소환합니다.<br></br><b>유사:</b> 반복합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "이러니까 멸종되는 거죠.",
+    "spellSchool": "SHADOW",
+    "portrait": "HS35-166_S.tif:5d4623e561eb47c8b12950b8e2b2efa4",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 191,
+        "name": "은신",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 363,
+        "name": "독성",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      },
+      {
+        "id": 4028,
+        "name": "유사",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_519.png"
+  }
+}

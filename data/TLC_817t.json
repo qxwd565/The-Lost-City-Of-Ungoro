@@ -1,1 +1,82 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_817t","dbfId":117545,"name":"암흑 정화","type":"SPELL","cardClass":"PRIEST","rarity":"LEGENDARY","collectible":false,"cost":1,"text":"<b>퀘스트:</b> 신성 주문을\n4개 시전해야 합니다.\n<b>보상:</b> 생명의 숨결","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS35-046_S2.tif:264c6fc3814456e4ab4f16f046e11d8e","set":"THE_LOST_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":5},{"id":462,"name":"퀘스트","value":1},{"id":535,"name":"퀘스트 완료 조건","value":4},{"id":676,"name":"무작위 선택 제외","value":1},{"id":1089,"name":"퀘스트 보상 데이터베이스 ID","value":118551},{"id":2519,"name":"전장 연관 카드 ID","value":119879},{"id":4297,"name":"게임 태그 4297","value":1}],"races":[],"race":"","classes":[],"art":"art/TLC_817t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-046_S2.tif:264c6fc3814456e4ab4f16f046e11d8e","goldenMaterial":"TLC_817_PremiumCard 1.mat:fa83dc1c22a3bbf4497d959c6e98b04c","goldenAnimation":"TLC_817_PremiumCard 1.asset:d0d56a4ecc39ad2499ba43df936e8209"}}
+{
+  "2025-07-09": {
+    "id": "TLC_817t",
+    "dbfId": 117545,
+    "name": "암흑 정화",
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "rarity": "LEGENDARY",
+    "collectible": false,
+    "cost": 1,
+    "text": "<b>퀘스트:</b> 신성 주문을<br></br>4개 시전해야 합니다.<br></br><b>보상:</b> 생명의 숨결",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS35-046_S2.tif:264c6fc3814456e4ab4f16f046e11d8e",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 462,
+        "name": "퀘스트",
+        "value": 1
+      },
+      {
+        "id": 535,
+        "name": "퀘스트 완료 조건",
+        "value": 4
+      },
+      {
+        "id": 676,
+        "name": "무작위 선택 제외",
+        "value": 1
+      },
+      {
+        "id": 1089,
+        "name": "퀘스트 보상 데이터베이스 ID",
+        "value": 118551
+      },
+      {
+        "id": 2519,
+        "name": "전장 연관 카드 ID",
+        "value": 119879
+      },
+      {
+        "id": 4297,
+        "name": "게임 태그 4297",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_817t.png"
+  }
+}

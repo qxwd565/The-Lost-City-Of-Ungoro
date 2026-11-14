@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_483","dbfId":120582,"name":"금고 파괴자","type":"MINION","cardClass":"MAGE","rarity":"COMMON","collectible":true,"cost":3,"text":"내가 카드를 <b>발견</b>한 후에 그 카드의 비용이\n(1) 감소합니다.","attack":2,"health":4,"durability":0,"armor":0,"flavor":"밀어서 열라고 3번이나 얘기했는데...","spellSchool":"","portrait":"HS35-143_M.tif:6be60b6e788c4dd6be7674df37c60f3b","set":"THE_LOST_CITY","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":415,"name":"발견","value":1}],"races":[],"race":"","classes":[],"art":"art/TLC_483.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-143_M.tif:6be60b6e788c4dd6be7674df37c60f3b","goldenMaterial":"TLC_483_PremiumCard.mat:e60c7e29a2729794ea5b8b43c944fe39","goldenAnimation":"TLC_483_PremiumCard.asset:7a7ba196575c5014f82f57b52361d2a6"}}
+{
+  "2025-07-09": {
+    "id": "TLC_483",
+    "dbfId": 120582,
+    "name": "금고 파괴자",
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "내가 카드를 <b>발견</b>한 후에 그 카드의 비용이<br></br>(1) 감소합니다.",
+    "attack": 2,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "밀어서 열라고 3번이나 얘기했는데...",
+    "spellSchool": "",
+    "portrait": "HS35-143_M.tif:6be60b6e788c4dd6be7674df37c60f3b",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_483.png"
+  }
+}

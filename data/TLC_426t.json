@@ -1,1 +1,46 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_426t","dbfId":121956,"name":"신성한 동굴","type":"SPELL","cardClass":"PALADIN","collectible":false,"cost":0,"text":"내가 멀록을 소환할 때마다\n그 멀록에게 +1/+1을\n부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS35-209_S.tif:c4504b0b0bda4fa89cef21951f4e4ae0","set":"THE_LOST_CITY","nativeTags":[{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":5},{"id":684,"name":"비용 숨김","value":1}],"races":[],"race":"","classes":[],"art":"art/TLC_426t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-209_S.tif:c4504b0b0bda4fa89cef21951f4e4ae0","goldenMaterial":"TLC_426t_PremiumCard.mat:fc9fa592d547ec9428bc3f32176786ce","goldenAnimation":"TLC_426t_PremiumCard.asset:4962ec6cde1e1f14db32efdfd7107a35"}}
+{
+  "2025-07-09": {
+    "id": "TLC_426t",
+    "dbfId": 121956,
+    "name": "신성한 동굴",
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "collectible": false,
+    "cost": 0,
+    "text": "내가 멀록을 소환할 때마다<br></br>그 멀록에게 +1/+1을<br></br>부여합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS35-209_S.tif:c4504b0b0bda4fa89cef21951f4e4ae0",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 684,
+        "name": "비용 숨김",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_426t.png"
+  }
+}

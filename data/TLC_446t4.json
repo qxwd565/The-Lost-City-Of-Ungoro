@@ -1,1 +1,74 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_446t4","dbfId":120038,"name":"지옥뿔","type":"MINION","cardClass":"WARLOCK","collectible":false,"cost":5,"text":"<b>도발</b>\n<b>환생</b>","attack":3,"health":5,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS35-181_M.tif:d27ea8718106434b8215d58abc3cbc6f","set":"THE_LOST_CITY","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":5},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":9},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":1085,"name":"환생","value":1},{"id":2537,"name":"게임 태그 2537","value":1}],"races":["DEMON","BEAST"],"race":"악마, 야수","classes":[],"art":"art/TLC_446t4.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-181_M.tif:d27ea8718106434b8215d58abc3cbc6f","goldenMaterial":"TLC_446t4_PremiumCard.mat:e46ebccecb5d79741a838ba52e19a005","goldenAnimation":"TLC_446t4_PremiumCard.asset:968fe5572032c9d41b0cdd6ec2c1a1e4"}}
+{
+  "2025-07-09": {
+    "id": "TLC_446t4",
+    "dbfId": 120038,
+    "name": "지옥뿔",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "collectible": false,
+    "cost": 5,
+    "text": "<b>도발</b><br></br><b>환생</b>",
+    "attack": 3,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS35-181_M.tif:d27ea8718106434b8215d58abc3cbc6f",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 1085,
+        "name": "환생",
+        "value": 1
+      },
+      {
+        "id": 2537,
+        "name": "게임 태그 2537",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DEMON",
+      "BEAST"
+    ],
+    "race": "악마, 야수",
+    "classes": [],
+    "art": "art/TLC_446t4.png"
+  }
+}

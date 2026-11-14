@@ -1,1 +1,56 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_446t","dbfId":118227,"name":"언더펠 균열","type":"SPELL","cardClass":"WARLOCK","collectible":false,"cost":5,"text":"언더펠로 통하는 균열을 엽니다.\n카드를 균열로 던져 넣어\n무작위 지옥 야수 2마리를\n소환합니다. <i>(한 턴에 한 번)</i>","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS35-178_S.tif:2e3eee5057014c38abdac1dc001f4869","set":"THE_LOST_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":5},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":120968},{"id":2589,"name":"간판 카드 존재","value":1}],"races":[],"race":"","classes":[],"art":"art/TLC_446t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-178_S.tif:2e3eee5057014c38abdac1dc001f4869","goldenMaterial":"TLC_446t_PremiumCard.mat:a230282d0022ee040b66745178d9df05","goldenAnimation":"TLC_446t_PremiumCard.asset:47692905a85e2b5449b64698206921f6"}}
+{
+  "2025-07-09": {
+    "id": "TLC_446t",
+    "dbfId": 118227,
+    "name": "언더펠 균열",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "collectible": false,
+    "cost": 5,
+    "text": "언더펠로 통하는 균열을 엽니다.<br></br>카드를 균열로 던져 넣어<br></br>무작위 지옥 야수 2마리를<br></br>소환합니다. <i>(한 턴에 한 번)</i>",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS35-178_S.tif:2e3eee5057014c38abdac1dc001f4869",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 120968
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_446t.png"
+  }
+}

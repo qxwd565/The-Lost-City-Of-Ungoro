@@ -1,1 +1,82 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DINO_434","dbfId":118766,"name":"랩터둥지 간호사","type":"MINION","cardClass":"HUNTER","rarity":"COMMON","collectible":true,"cost":1,"text":"<b>전투의 함성</b>: 비용이 1인\n무작위 하수인을 얻습니다. <b><b>죽음의 메아리</b></b>: 비용이 1인\n무작위 주문을 얻습니다.","attack":1,"health":1,"durability":0,"armor":0,"flavor":"맛있네. 열네 개 더 가져와.","spellSchool":"","portrait":"HS35-312_M.tif:4e938b51c2bf420db04fa17b51d58e18","set":"THE_LOST_CITY","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":3},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":217,"name":"죽음의 메아리","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1},{"id":4533,"name":"제작 결과 능력","value":1}],"races":[],"race":"","classes":[],"art":"art/DINO_434.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-312_M.tif:4e938b51c2bf420db04fa17b51d58e18","goldenMaterial":"DINO_434_PremiumCard.mat:ca5dbdf3a7e9f1844bd24d65b9f6d428","goldenAnimation":"DINO_434_PremiumCard.asset:45b92ad54f5f52741b2d144cb4b23079"}}
+{
+  "2025-09-03": {
+    "id": "DINO_434",
+    "dbfId": 118766,
+    "name": "랩터둥지 간호사",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>전투의 함성</b>: 비용이 1인<br></br>무작위 하수인을 얻습니다. <b><b>죽음의 메아리</b></b>: 비용이 1인<br></br>무작위 주문을 얻습니다.",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "맛있네. 열네 개 더 가져와.",
+    "spellSchool": "",
+    "portrait": "HS35-312_M.tif:4e938b51c2bf420db04fa17b51d58e18",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 4533,
+        "name": "제작 결과 능력",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DINO_434.png"
+  }
+}

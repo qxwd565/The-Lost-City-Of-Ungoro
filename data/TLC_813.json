@@ -1,1 +1,46 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_813","dbfId":117310,"name":"정화의 덩굴","type":"SPELL","cardClass":"PRIEST","collectible":false,"cost":1,"text":"하수인을 선택합니다. 아군\n하수인이라면 생명력을 +2\n부여합니다. 적 하수인이라면\n생명력을 -2 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"HOLY","portrait":"HS35-157_S.tif:31522809e49747869467f1a5526b7ca9","set":"THE_LOST_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":5},{"id":1635,"name":"주문 속성","value":5}],"races":[],"race":"","classes":[],"art":"art/TLC_813.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-157_S.tif:31522809e49747869467f1a5526b7ca9","goldenMaterial":"TLC_813_PremiumCard.mat:0b1770ef8aa84084e9f744627801a5e5","goldenAnimation":"TLC_813_PremiumCard.asset:3e5a1c5558b250345a264924a838b1e2"}}
+{
+  "2025-07-09": {
+    "id": "TLC_813",
+    "dbfId": 117310,
+    "name": "정화의 덩굴",
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "collectible": false,
+    "cost": 1,
+    "text": "하수인을 선택합니다. 아군<br></br>하수인이라면 생명력을 +2<br></br>부여합니다. 적 하수인이라면<br></br>생명력을 -2 부여합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "HOLY",
+    "portrait": "HS35-157_S.tif:31522809e49747869467f1a5526b7ca9",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 5
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_813.png"
+  }
+}

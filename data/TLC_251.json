@@ -1,1 +1,84 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_251","dbfId":118251,"name":"원시지느러미 도전자","type":"MINION","cardClass":"NEUTRAL","rarity":"RARE","collectible":true,"cost":3,"text":"<b>전투의 함성:</b> 내 다음\n<b>유사</b> 능력이 두 번 발동합니다.","attack":3,"health":2,"durability":0,"armor":0,"flavor":"\"아옳옳옳옳옳옳옳!!!!!!\" <i>생존자는 없었습니다.</i>","spellSchool":"","portrait":"HS35-092_M.tif:aa0c83bb8c284866b879f4b84e31e8c2","set":"THE_LOST_CITY","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":14},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":4028,"name":"유사","value":1}],"races":["MURLOC"],"race":"멀록","classes":[],"art":"art/TLC_251.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-092_M.tif:aa0c83bb8c284866b879f4b84e31e8c2","goldenMaterial":"TLC_251_PremiumCard.mat:63a7138dd51e9e44c8dbba75b5c7e5e8","goldenAnimation":"TLC_251_PremiumCard.asset:ae793732ce5ef004b9269a199073c97b"}}
+{
+  "2025-07-09": {
+    "id": "TLC_251",
+    "dbfId": 118251,
+    "name": "원시지느러미 도전자",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>전투의 함성:</b> 내 다음<br></br><b>유사</b> 능력이 두 번 발동합니다.",
+    "attack": 3,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"아옳옳옳옳옳옳옳!!!!!!\" <i>생존자는 없었습니다.</i>",
+    "spellSchool": "",
+    "portrait": "HS35-092_M.tif:aa0c83bb8c284866b879f4b84e31e8c2",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 14
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 4028,
+        "name": "유사",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MURLOC"
+    ],
+    "race": "멀록",
+    "classes": [],
+    "art": "art/TLC_251.png"
+  }
+}

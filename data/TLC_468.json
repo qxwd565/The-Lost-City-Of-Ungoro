@@ -1,1 +1,89 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_468","dbfId":118279,"name":"타르 덩어리","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":5,"text":"<b>독성</b>, <b>도발</b>, <b>죽음의 메아리:</b>\n<b>독성</b> 능력이 있는 2/2 덩어리와 <b>도발</b> 능력이 있는 2/2 덩어리를 소환합니다.","attack":4,"health":4,"durability":0,"armor":0,"flavor":"타르가 태어납니다.","spellSchool":"","portrait":"HS35-190_M.tif:7222f8596b0147e0aa82c3be0ffb1fb4","set":"THE_LOST_CITY","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":5},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":18},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":363,"name":"독성","value":1}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/TLC_468.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-190_M.tif:7222f8596b0147e0aa82c3be0ffb1fb4","goldenMaterial":"TLC_468_PremiumCard.mat:5e901c26f2672bd4dac6ffda04042f31","goldenAnimation":"TLC_468_PremiumCard.asset:0e632d844eeae324c9a85798982fe097"}}
+{
+  "2025-07-09": {
+    "id": "TLC_468",
+    "dbfId": 118279,
+    "name": "타르 덩어리",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>독성</b>, <b>도발</b>, <b>죽음의 메아리:</b><br></br><b>독성</b> 능력이 있는 2/2 덩어리와 <b>도발</b> 능력이 있는 2/2 덩어리를 소환합니다.",
+    "attack": 4,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "타르가 태어납니다.",
+    "spellSchool": "",
+    "portrait": "HS35-190_M.tif:7222f8596b0147e0aa82c3be0ffb1fb4",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 363,
+        "name": "독성",
+        "value": 1
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/TLC_468.png"
+  }
+}

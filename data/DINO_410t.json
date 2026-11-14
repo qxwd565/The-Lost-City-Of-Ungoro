@@ -1,1 +1,73 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DINO_410t","dbfId":118495,"name":"켈로스","type":"MINION","cardClass":"NEUTRAL","collectible":false,"cost":10,"text":"<b>도발</b>","attack":20,"health":20,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS35-343_M.tif:7e9664c40f954aebacca15f51b068408","set":"THE_LOST_CITY","nativeTags":[{"id":45,"name":"생명력","value":20},{"id":47,"name":"공격력","value":20},{"id":48,"name":"마나 비용","value":10},{"id":114,"name":"전설 속성","value":1},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":1824,"name":"미니 세트","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/DINO_410t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-343_M.tif:7e9664c40f954aebacca15f51b068408","goldenMaterial":"DINO_410t_PremiumCard.mat:a7dd737f17b15e94fb3ee29a1c822428","goldenAnimation":"DINO_410t_PremiumCard.asset:28e60a6e688a20f478f4d2c32b627fd7"}}
+{
+  "2025-09-03": {
+    "id": "DINO_410t",
+    "dbfId": 118495,
+    "name": "켈로스",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 10,
+    "text": "<b>도발</b>",
+    "attack": 20,
+    "health": 20,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS35-343_M.tif:7e9664c40f954aebacca15f51b068408",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 20
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 20
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 10
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/DINO_410t.png"
+  }
+}

@@ -1,1 +1,115 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DINO_416","dbfId":118558,"name":"공허한 공포뿔","type":"MINION","cardClass":"DEATHKNIGHT","rarity":"RARE","collectible":true,"cost":5,"text":"<b>속공</b>, 아군 하수인이 죽은 후에 <b>시체</b>를 3개 소모해 <b>환생</b>을 얻습니다.","attack":5,"health":4,"durability":0,"armor":0,"flavor":"슈뢰딩거의 공포뿔.","spellSchool":"","portrait":"HS35-302_M.tif:181be21a4a3544dbb014c9dba19e38a5","set":"THE_LOST_CITY","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":1},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":791,"name":"속공","value":1},{"id":1085,"name":"환생","value":1},{"id":1824,"name":"미니 세트","value":1},{"id":2534,"name":"게임 태그 2534","value":1},{"id":2559,"name":"시체","value":1},{"id":4058,"name":"시체 소모","value":1},{"id":4533,"name":"제작 결과 능력","value":1},{"id":4548,"name":"게임 태그 4548","value":1}],"races":["UNDEAD","BEAST"],"race":"언데드, 야수","classes":[],"art":"art/DINO_416.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-302_M.tif:181be21a4a3544dbb014c9dba19e38a5","goldenMaterial":"DINO_416_PremiumCard.mat:c2663694864537747af78427c5ce1431","goldenAnimation":"DINO_416_PremiumCard.asset:9d2cbc618cf16d64dbae6e5352afadff"}}
+{
+  "2025-09-03": {
+    "id": "DINO_416",
+    "dbfId": 118558,
+    "name": "공허한 공포뿔",
+    "type": "MINION",
+    "cardClass": "DEATHKNIGHT",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>속공</b>, 아군 하수인이 죽은 후에 <b>시체</b>를 3개 소모해 <b>환생</b>을 얻습니다.",
+    "attack": 5,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "슈뢰딩거의 공포뿔.",
+    "spellSchool": "",
+    "portrait": "HS35-302_M.tif:181be21a4a3544dbb014c9dba19e38a5",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 1
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 1085,
+        "name": "환생",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 2534,
+        "name": "게임 태그 2534",
+        "value": 1
+      },
+      {
+        "id": 2559,
+        "name": "시체",
+        "value": 1
+      },
+      {
+        "id": 4058,
+        "name": "시체 소모",
+        "value": 1
+      },
+      {
+        "id": 4533,
+        "name": "제작 결과 능력",
+        "value": 1
+      },
+      {
+        "id": 4548,
+        "name": "게임 태그 4548",
+        "value": 1
+      }
+    ],
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "race": "언데드, 야수",
+    "classes": [],
+    "art": "art/DINO_416.png"
+  }
+}

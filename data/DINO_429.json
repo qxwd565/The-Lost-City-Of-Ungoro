@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DINO_429","dbfId":118651,"name":"양 가면","type":"SPELL","cardClass":"MAGE","rarity":"RARE","collectible":true,"cost":4,"text":"하수인의 능력치를 1/1로\n만들고 \"<b>죽음의 메아리:</b> 모든\n하수인에게 피해를 2 줌\"\n능력을 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"뻥이요!","spellSchool":"","portrait":"HS35-315_S.tif:2b5ff8aa2a86425a82e74aab2c06f888","set":"THE_LOST_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/DINO_429.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-315_S.tif:2b5ff8aa2a86425a82e74aab2c06f888","goldenMaterial":"DINO_429_PremiumCard.mat:046ac325652b4394a97523730db9794e","goldenAnimation":"DINO_429_PremiumCard.asset:5c02fb3a15d3cef43b3cd07ea2637bd2"}}
+{
+  "2025-09-03": {
+    "id": "DINO_429",
+    "dbfId": 118651,
+    "name": "양 가면",
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 4,
+    "text": "하수인의 능력치를 1/1로<br></br>만들고 \"<b>죽음의 메아리:</b> 모든<br></br>하수인에게 피해를 2 줌\"<br></br>능력을 부여합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "뻥이요!",
+    "spellSchool": "",
+    "portrait": "HS35-315_S.tif:2b5ff8aa2a86425a82e74aab2c06f888",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DINO_429.png"
+  }
+}

@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_521","dbfId":117703,"name":"하늘의 눈","type":"MINION","cardClass":"ROGUE","rarity":"RARE","collectible":true,"cost":2,"text":"<b>전투의 함성:</b> 적의 덱에\n있는 카드 3장을 봅니다.\n1장을 선택하여 적의 덱\n맨 위에 놓습니다.","attack":2,"health":3,"durability":0,"armor":0,"flavor":"\"움브라의 막을 수 없는 언데드 군단을 지켜보고 있다. 난 어... 멀리 떨어진 위쪽에 머무르겠다.\"","spellSchool":"","portrait":"HS35-052_M.tif:30e05f32338a4dffa8824fab5c10c9c1","set":"THE_LOST_CITY","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/TLC_521.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-052_M.tif:30e05f32338a4dffa8824fab5c10c9c1","goldenMaterial":"TLC_521_PremiumCard.mat:0cefa526d9c109547b196c826786faff","goldenAnimation":"TLC_521_PremiumCard.asset:3d0f6bc5cd3285d4ca012754ba02d900"}}
+{
+  "2025-07-09": {
+    "id": "TLC_521",
+    "dbfId": 117703,
+    "name": "하늘의 눈",
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>전투의 함성:</b> 적의 덱에<br></br>있는 카드 3장을 봅니다.<br></br>1장을 선택하여 적의 덱<br></br>맨 위에 놓습니다.",
+    "attack": 2,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"움브라의 막을 수 없는 언데드 군단을 지켜보고 있다. 난 어... 멀리 떨어진 위쪽에 머무르겠다.\"",
+    "spellSchool": "",
+    "portrait": "HS35-052_M.tif:30e05f32338a4dffa8824fab5c10c9c1",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_521.png"
+  }
+}

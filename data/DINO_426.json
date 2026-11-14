@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DINO_426","dbfId":118628,"name":"생명의 의식","type":"SPELL","cardClass":"PRIEST","rarity":"COMMON","collectible":true,"cost":2,"text":"비용이 3인 하수인을\n<b>발견</b>합니다. 그 하수인을 복사하여 2/3 하수인으로 소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"나주평야 발발이 치와와!","spellSchool":"HOLY","portrait":"HS35-320_S.tif:db3cc1ccff0d42819631a2c0a2b388da","set":"THE_LOST_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":415,"name":"발견","value":1},{"id":1342,"name":"발견 시각 효과","value":1},{"id":1635,"name":"주문 속성","value":5},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/DINO_426.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-320_S.tif:db3cc1ccff0d42819631a2c0a2b388da","goldenMaterial":"DINO_426_PremiumCard.mat:d45dffec42a54b94dad680a4034311cd","goldenAnimation":"DINO_426_PremiumCard.asset:88d231d325f81064aa2a8e67197160d7"}}
+{
+  "2025-09-03": {
+    "id": "DINO_426",
+    "dbfId": 118628,
+    "name": "생명의 의식",
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "비용이 3인 하수인을<br></br><b>발견</b>합니다. 그 하수인을 복사하여 2/3 하수인으로 소환합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "나주평야 발발이 치와와!",
+    "spellSchool": "HOLY",
+    "portrait": "HS35-320_S.tif:db3cc1ccff0d42819631a2c0a2b388da",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 5
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DINO_426.png"
+  }
+}

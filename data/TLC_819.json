@@ -1,1 +1,74 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_819","dbfId":117563,"name":"숲노래 세이렌","type":"MINION","cardClass":"PRIEST","rarity":"EPIC","collectible":true,"cost":6,"text":"<b>생명력 흡수</b>\n내가 이번 턴에 신성과 암흑 주문을 시전했으면 비용이 (1)이 됩니다.","attack":4,"health":7,"durability":0,"armor":0,"flavor":"그녀의 노래가 단조로 바뀌면 공허와 신성의 조화가 완전히 무너집니다.","spellSchool":"","portrait":"HS35-155_M.tif:dd386b5244384f4c88e890e87afc0230","set":"THE_LOST_CITY","nativeTags":[{"id":45,"name":"생명력","value":7},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":6},{"id":199,"name":"직업","value":6},{"id":200,"name":"종족","value":92},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":685,"name":"생명력 흡수","value":1}],"races":["NAGA"],"race":"나가","classes":[],"art":"art/TLC_819.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-155_M.tif:dd386b5244384f4c88e890e87afc0230","goldenMaterial":"TLC_819_PremiumCard.mat:827d6246d1f66624ebb668b12bba2d67","goldenAnimation":"TLC_819_PremiumCard.asset:bae94b619ef544e4ca17a03f1bb44d1c"}}
+{
+  "2025-07-09": {
+    "id": "TLC_819",
+    "dbfId": 117563,
+    "name": "숲노래 세이렌",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>생명력 흡수</b><br></br>내가 이번 턴에 신성과 암흑 주문을 시전했으면 비용이 (1)이 됩니다.",
+    "attack": 4,
+    "health": 7,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "그녀의 노래가 단조로 바뀌면 공허와 신성의 조화가 완전히 무너집니다.",
+    "spellSchool": "",
+    "portrait": "HS35-155_M.tif:dd386b5244384f4c88e890e87afc0230",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 7
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 92
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 685,
+        "name": "생명력 흡수",
+        "value": 1
+      }
+    ],
+    "races": [
+      "NAGA"
+    ],
+    "race": "나가",
+    "classes": [],
+    "art": "art/TLC_819.png"
+  }
+}

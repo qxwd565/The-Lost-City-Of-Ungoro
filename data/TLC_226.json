@@ -1,1 +1,99 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_226","dbfId":117535,"name":"창조된 사서","type":"MINION","cardClass":"MAGE","rarity":"EPIC","collectible":true,"cost":3,"text":"<b>죽음의 메아리</b>: 주문을 뽑습니다. <b>유사</b>: 이 하수인을 복사하여 소환합니다.","attack":2,"health":2,"durability":0,"armor":0,"flavor":"도서관 광전사의 뒤치다꺼리도 도맡아 합니다.","spellSchool":"","portrait":"HS35-034_M.tif:aed3bae2efc143b1af6784ad5b327c77","set":"THE_LOST_CITY","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":4},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":2589,"name":"간판 카드 존재","value":1},{"id":4028,"name":"유사","value":1},{"id":4533,"name":"제작 결과 능력","value":1},{"id":4548,"name":"게임 태그 4548","value":1},{"id":4930,"name":"게임 태그 4930","value":1}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/TLC_226.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-034_M.tif:aed3bae2efc143b1af6784ad5b327c77","goldenMaterial":"TLC_226_PremiumCard.mat:16e219aa764435946ab234390ca99544","goldenAnimation":"TLC_226_PremiumCard.asset:6a665327362b05a47a5b71dec03e848c"}}
+{
+  "2025-07-09": {
+    "id": "TLC_226",
+    "dbfId": 117535,
+    "name": "창조된 사서",
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>죽음의 메아리</b>: 주문을 뽑습니다. <b>유사</b>: 이 하수인을 복사하여 소환합니다.",
+    "attack": 2,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "도서관 광전사의 뒤치다꺼리도 도맡아 합니다.",
+    "spellSchool": "",
+    "portrait": "HS35-034_M.tif:aed3bae2efc143b1af6784ad5b327c77",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      },
+      {
+        "id": 4028,
+        "name": "유사",
+        "value": 1
+      },
+      {
+        "id": 4533,
+        "name": "제작 결과 능력",
+        "value": 1
+      },
+      {
+        "id": 4548,
+        "name": "게임 태그 4548",
+        "value": 1
+      },
+      {
+        "id": 4930,
+        "name": "게임 태그 4930",
+        "value": 1
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/TLC_226.png"
+  }
+}

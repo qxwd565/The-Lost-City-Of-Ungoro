@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_248","dbfId":118238,"name":"울트라기가사우루스","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":11,"text":"","attack":14,"health":28,"durability":0,"armor":0,"flavor":"울트라사우루스가 커졌습니다.","spellSchool":"","portrait":"HS35-086_M.tif:73e0a8c972d445afb0c2166a124663ff","set":"THE_LOST_CITY","nativeTags":[{"id":45,"name":"생명력","value":28},{"id":47,"name":"공격력","value":14},{"id":48,"name":"마나 비용","value":11},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":20},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":2589,"name":"간판 카드 존재","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/TLC_248.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-086_M.tif:73e0a8c972d445afb0c2166a124663ff","goldenMaterial":"TLC_248_PremiumCard.mat:ae536506b27167045a0ac157fb104344","goldenAnimation":"TLC_248_PremiumCard.asset:9250a309424560046b7523d12cce2eab"}}
+{
+  "2025-07-09": {
+    "id": "TLC_248",
+    "dbfId": 118238,
+    "name": "울트라기가사우루스",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 11,
+    "text": "",
+    "attack": 14,
+    "health": 28,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "울트라사우루스가 커졌습니다.",
+    "spellSchool": "",
+    "portrait": "HS35-086_M.tif:73e0a8c972d445afb0c2166a124663ff",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 28
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 14
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 11
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/TLC_248.png"
+  }
+}

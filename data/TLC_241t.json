@@ -1,1 +1,56 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_241t","dbfId":117953,"name":"트레샤돈 함대 소집!","type":"SPELL","cardClass":"PALADIN","collectible":false,"cost":2,"text":"하수인에게 +2/+2와 <b>천상의 보호막</b>을 부여합니다. <i>(이 카드는 이도가 살아 있는 동안 내 손에 남습니다!)</i>","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"HOLY","portrait":"HS35-154_S.tif:013df48ab0db4c6f82c83e8d9c2d9760","set":"THE_LOST_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":194,"name":"천상의 보호막","value":1},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":5},{"id":1635,"name":"주문 속성","value":5},{"id":2557,"name":"주문제작 안내","value":2}],"races":[],"race":"","classes":[],"art":"art/TLC_241t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-154_S.tif:013df48ab0db4c6f82c83e8d9c2d9760","goldenMaterial":"TLC_241t_PremiumCard.mat:64b86e5f19fd3ce4bb3e53f478e27552","goldenAnimation":"TLC_241t_PremiumCard.asset:cb529c40ea1362642b28ee33bc4ef715"}}
+{
+  "2025-07-09": {
+    "id": "TLC_241t",
+    "dbfId": 117953,
+    "name": "트레샤돈 함대 소집!",
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "collectible": false,
+    "cost": 2,
+    "text": "하수인에게 +2/+2와 <b>천상의 보호막</b>을 부여합니다. <i>(이 카드는 이도가 살아 있는 동안 내 손에 남습니다!)</i>",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "HOLY",
+    "portrait": "HS35-154_S.tif:013df48ab0db4c6f82c83e8d9c2d9760",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 194,
+        "name": "천상의 보호막",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 5
+      },
+      {
+        "id": 2557,
+        "name": "주문제작 안내",
+        "value": 2
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_241t.png"
+  }
+}

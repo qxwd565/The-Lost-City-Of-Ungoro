@@ -1,1 +1,82 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_841","dbfId":119755,"name":"곤충학자 토루","type":"MINION","cardClass":"DEMONHUNTER","rarity":"LEGENDARY","collectible":true,"cost":8,"text":"<b>전투의 함성:</b> 내 손에 있는 하수인을 각각 비용이 (1)인 0/1 병에 넣습니다. 병이 깨지면 하수인이 나옵니다!","attack":7,"health":7,"durability":0,"armor":0,"flavor":"뚜껑. 뚜껑. 뚜껑. 뚜껑. 뚜껑. 뚜껑.","spellSchool":"","portrait":"HS35-014_M.tif:0247339fdd254a17922bafbd00f451d3","set":"THE_LOST_CITY","nativeTags":[{"id":45,"name":"생명력","value":7},{"id":47,"name":"공격력","value":7},{"id":48,"name":"마나 비용","value":8},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":14},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":120598},{"id":2589,"name":"간판 카드 존재","value":1}],"races":[],"race":"","classes":[],"art":"art/TLC_841.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-014_M.tif:0247339fdd254a17922bafbd00f451d3","goldenMaterial":"TLC_841_PremiumCard.mat:f8d0b2f158a15194097c3c1a9aef0e54","goldenAnimation":"TLC_841_PremiumCard.asset:a594a1e1a63a9704f86ce0c2094642dd"}}
+{
+  "2025-07-09": {
+    "id": "TLC_841",
+    "dbfId": 119755,
+    "name": "곤충학자 토루",
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 8,
+    "text": "<b>전투의 함성:</b> 내 손에 있는 하수인을 각각 비용이 (1)인 0/1 병에 넣습니다. 병이 깨지면 하수인이 나옵니다!",
+    "attack": 7,
+    "health": 7,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "뚜껑. 뚜껑. 뚜껑. 뚜껑. 뚜껑. 뚜껑.",
+    "spellSchool": "",
+    "portrait": "HS35-014_M.tif:0247339fdd254a17922bafbd00f451d3",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 7
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 7
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 8
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 120598
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_841.png"
+  }
+}

@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_110","dbfId":121026,"name":"도시 수석 에쇼","type":"MINION","cardClass":"NEUTRAL","rarity":"LEGENDARY","collectible":true,"cost":6,"text":"<b>전투의 함성: </b>내 덱에 있는\n모든 하수인이 한 종족을 공유하면, 내 다른 하수인들에게 +2/+2를 부여합니다.\n<i>(어디에 있든)</i>","attack":5,"health":7,"durability":0,"armor":0,"flavor":"\"에쇼가 직접 이 도시를 소개해 주겠다!\"","spellSchool":"","portrait":"HS35-103_M.tif:34c244699c56458e81f7e1e928f012a5","set":"THE_LOST_CITY","nativeTags":[{"id":45,"name":"생명력","value":7},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":6},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":2589,"name":"간판 카드 존재","value":1}],"races":[],"race":"","classes":[],"art":"art/TLC_110.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-103_M.tif:34c244699c56458e81f7e1e928f012a5","goldenMaterial":"TLC_110_PremiumCard.mat:4d5bf981dc5d53e4e8cd6f64c512bf1c","goldenAnimation":"TLC_110_PremiumCard.asset:5773e7ab1a0735941803d6b290795d84"}}
+{
+  "2025-07-09": {
+    "id": "TLC_110",
+    "dbfId": 121026,
+    "name": "도시 수석 에쇼",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>전투의 함성: </b>내 덱에 있는<br></br>모든 하수인이 한 종족을 공유하면, 내 다른 하수인들에게 +2/+2를 부여합니다.<br></br><i>(어디에 있든)</i>",
+    "attack": 5,
+    "health": 7,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"에쇼가 직접 이 도시를 소개해 주겠다!\"",
+    "spellSchool": "",
+    "portrait": "HS35-103_M.tif:34c244699c56458e81f7e1e928f012a5",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 7
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_110.png"
+  }
+}

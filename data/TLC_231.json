@@ -1,1 +1,52 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_231","dbfId":117648,"name":"바르나부스의 이야기","type":"SPELL","cardClass":"DRUID","rarity":"COMMON","collectible":true,"cost":2,"text":"하수인을 뽑습니다.\n그 하수인의 공격력이 5 이상이면 그 하수인에게 생명력을 +5 부여하고 방어도를 5 얻습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"\"옛날옛적에 아주 거대한 공룡이 있었어요. 워낙 거대해서 다른 공룡이 다 죽어 버렸답니다. 끝.\"","spellSchool":"","portrait":"HS35-131_S.tif:741b97a99be8455fa61a5bde1747f89c","set":"THE_LOST_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/TLC_231.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-131_S.tif:741b97a99be8455fa61a5bde1747f89c","goldenMaterial":"TLC_231_PremiumCard.mat:356c99a3843448a4880af98bd99360b2","goldenAnimation":"TLC_231_PremiumCard.asset:9fd3d5aeea2b1794a855bf6c93db0eb8"}}
+{
+  "2025-07-09": {
+    "id": "TLC_231",
+    "dbfId": 117648,
+    "name": "바르나부스의 이야기",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "하수인을 뽑습니다.<br></br>그 하수인의 공격력이 5 이상이면 그 하수인에게 생명력을 +5 부여하고 방어도를 5 얻습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"옛날옛적에 아주 거대한 공룡이 있었어요. 워낙 거대해서 다른 공룡이 다 죽어 버렸답니다. 끝.\"",
+    "spellSchool": "",
+    "portrait": "HS35-131_S.tif:741b97a99be8455fa61a5bde1747f89c",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_231.png"
+  }
+}

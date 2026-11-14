@@ -1,1 +1,63 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_101t","dbfId":122797,"name":"둥지를 튼 랩터","type":"MINION","cardClass":"NEUTRAL","collectible":false,"cost":1,"text":"<b>속공</b>","attack":2,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS35-202_M.tif:eefd5800934f4990a913c42275c3bbf9","set":"THE_LOST_CITY","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":791,"name":"속공","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/TLC_101t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-202_M.tif:eefd5800934f4990a913c42275c3bbf9","goldenMaterial":"TLC_101t_PremiumCard.mat:2a276e3ad6a0d514bb8c8b92c3d89337","goldenAnimation":"TLC_101t_PremiumCard.asset:ce149faea6aa6d04baa905ba87e8c5a0"}}
+{
+  "2025-07-09": {
+    "id": "TLC_101t",
+    "dbfId": 122797,
+    "name": "둥지를 튼 랩터",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 1,
+    "text": "<b>속공</b>",
+    "attack": 2,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS35-202_M.tif:eefd5800934f4990a913c42275c3bbf9",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/TLC_101t.png"
+  }
+}

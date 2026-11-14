@@ -1,1 +1,92 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_461","dbfId":118192,"name":"줍줍 수집가","type":"MINION","cardClass":"MAGE","rarity":"COMMON","collectible":true,"cost":1,"text":"<b>전투의 함성:</b> 내 남은 마나 수정과 동일한 비용의 카드를 <b>발견</b>합니다.","attack":1,"health":1,"durability":0,"armor":0,"flavor":"\"잠깐만. 이 울트라기가사우루스 좀 자루에 넣고 하자고.\"","spellSchool":"","portrait":"HS35-141_M.tif:775ce0544b7c4686a6a74b0eceb7b492","set":"THE_LOST_CITY","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":415,"name":"발견","value":1},{"id":1342,"name":"발견 시각 효과","value":1},{"id":4533,"name":"제작 결과 능력","value":1},{"id":4578,"name":"게임 태그 4578","value":1},{"id":4930,"name":"게임 태그 4930","value":1}],"races":[],"race":"","classes":[],"art":"art/TLC_461.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-141_M.tif:775ce0544b7c4686a6a74b0eceb7b492","goldenMaterial":"TLC_461_PremiumCard.mat:cc98b5e59457b4447a75187c3a89b315","goldenAnimation":"TLC_461_PremiumCard.asset:ac3f190ad53c0e24f8f988087adedb7a"}}
+{
+  "2025-07-09": {
+    "id": "TLC_461",
+    "dbfId": 118192,
+    "name": "줍줍 수집가",
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>전투의 함성:</b> 내 남은 마나 수정과 동일한 비용의 카드를 <b>발견</b>합니다.",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"잠깐만. 이 울트라기가사우루스 좀 자루에 넣고 하자고.\"",
+    "spellSchool": "",
+    "portrait": "HS35-141_M.tif:775ce0544b7c4686a6a74b0eceb7b492",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      },
+      {
+        "id": 4533,
+        "name": "제작 결과 능력",
+        "value": 1
+      },
+      {
+        "id": 4578,
+        "name": "게임 태그 4578",
+        "value": 1
+      },
+      {
+        "id": 4930,
+        "name": "게임 태그 4930",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_461.png"
+  }
+}

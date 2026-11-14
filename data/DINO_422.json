@@ -1,1 +1,84 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DINO_422","dbfId":118620,"name":"앤카일로돈","type":"MINION","cardClass":"HUNTER","rarity":"RARE","collectible":true,"cost":6,"text":"<b><b>도발</b>, 죽음의 메아리:</b> 비용이 3인 무작위 야수 둘을 소환합니다. 그 야수들이 무작위 적들을 공격합니다.","attack":7,"health":5,"durability":0,"armor":0,"flavor":"앤카일로돈은 상대를 찢어.","spellSchool":"","portrait":"HS35-313_M.tif:7fec8f38e1174665af288fc206250163","set":"THE_LOST_CITY","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":7},{"id":48,"name":"마나 비용","value":6},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":3},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/DINO_422.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-313_M.tif:7fec8f38e1174665af288fc206250163","goldenMaterial":"DINO_422_PremiumCard.mat:0bde448bf4da2d045863b596f25cbaaa","goldenAnimation":"DINO_422_PremiumCard.asset:5483c2d75069b1e49b6cbddfa62eb137"}}
+{
+  "2025-09-03": {
+    "id": "DINO_422",
+    "dbfId": 118620,
+    "name": "앤카일로돈",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b><b>도발</b>, 죽음의 메아리:</b> 비용이 3인 무작위 야수 둘을 소환합니다. 그 야수들이 무작위 적들을 공격합니다.",
+    "attack": 7,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "앤카일로돈은 상대를 찢어.",
+    "spellSchool": "",
+    "portrait": "HS35-313_M.tif:7fec8f38e1174665af288fc206250163",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 7
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/DINO_422.png"
+  }
+}

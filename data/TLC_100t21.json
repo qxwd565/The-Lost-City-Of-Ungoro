@@ -1,1 +1,46 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_100t21","dbfId":117764,"name":"솟구치는 간헐천","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":0,"text":"<b>죽음의 메아리:</b> 모든 적에게 피해를\n3 줍니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS35-106_S.tif:b873750b1420411497ff5f7d2fe57f78","set":"THE_LOST_CITY","nativeTags":[{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":5},{"id":217,"name":"죽음의 메아리","value":1},{"id":684,"name":"비용 숨김","value":1}],"races":[],"race":"","classes":[],"art":"art/TLC_100t21.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-106_S.tif:b873750b1420411497ff5f7d2fe57f78","goldenMaterial":"TLC_100t11_PremiumCard.mat:828f47b2ea130424a84299ddd39733ff","goldenAnimation":"TLC_100t11_PremiumCard.asset:623b2159a92daae40ade25b4daca7ce3"}}
+{
+  "2025-07-09": {
+    "id": "TLC_100t21",
+    "dbfId": 117764,
+    "name": "솟구치는 간헐천",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 0,
+    "text": "<b>죽음의 메아리:</b> 모든 적에게 피해를<br></br>3 줍니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS35-106_S.tif:b873750b1420411497ff5f7d2fe57f78",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 684,
+        "name": "비용 숨김",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_100t21.png"
+  }
+}

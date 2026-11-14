@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DINO_417","dbfId":118559,"name":"영혼휴식 의식","type":"SPELL","cardClass":"DEATHKNIGHT","rarity":"COMMON","collectible":true,"cost":1,"text":"내 하수인들에게 공격력 +1과 <b>속공</b>을 부여합니다. 그 하수인들은 내 턴이 끝나면 죽습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"오믈렛을 만들려면 알을 깨야죠.","spellSchool":"SHADOW","portrait":"HS35-301_S.tif:ae2f613ae8d846b1b6026a2a39d3a059","set":"THE_LOST_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":1},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":791,"name":"속공","value":1},{"id":1635,"name":"주문 속성","value":6},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/DINO_417.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-301_S.tif:ae2f613ae8d846b1b6026a2a39d3a059","goldenMaterial":"DINO_417_PremiumCard.mat:2c38be5aaa033a546a6637473a13fc76","goldenAnimation":"DINO_417_PremiumCard.asset:6b4a681438058ae40846b23e1aee56db"}}
+{
+  "2025-09-03": {
+    "id": "DINO_417",
+    "dbfId": 118559,
+    "name": "영혼휴식 의식",
+    "type": "SPELL",
+    "cardClass": "DEATHKNIGHT",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "내 하수인들에게 공격력 +1과 <b>속공</b>을 부여합니다. 그 하수인들은 내 턴이 끝나면 죽습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "오믈렛을 만들려면 알을 깨야죠.",
+    "spellSchool": "SHADOW",
+    "portrait": "HS35-301_S.tif:ae2f613ae8d846b1b6026a2a39d3a059",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 1
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DINO_417.png"
+  }
+}

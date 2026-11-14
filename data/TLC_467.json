@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_467","dbfId":118277,"name":"속삭이는 돌","type":"MINION","cardClass":"WARLOCK","rarity":"EPIC","collectible":true,"cost":5,"text":"<b>도발</b>, <b>죽음의 메아리:</b> 무작위\n지옥 주문을 2개 얻습니다.\n그 주문들이 마나 대신 생명력을 비용으로 사용합니다.","attack":0,"health":8,"durability":0,"armor":0,"flavor":"쉬이이...","spellSchool":"","portrait":"HS35-175_M.tif:52478a828a49439896dff5826509a83a","set":"THE_LOST_CITY","nativeTags":[{"id":45,"name":"생명력","value":8},{"id":48,"name":"마나 비용","value":5},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":9},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/TLC_467.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-175_M.tif:52478a828a49439896dff5826509a83a","goldenMaterial":"TLC_467_PremiumCard.mat:116b2d12f64da2644b2da8d62c893679","goldenAnimation":"TLC_467_PremiumCard.asset:0b98adf4ca8ea284cb6316fd4e02bc12"}}
+{
+  "2025-07-09": {
+    "id": "TLC_467",
+    "dbfId": 118277,
+    "name": "속삭이는 돌",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>도발</b>, <b>죽음의 메아리:</b> 무작위<br></br>지옥 주문을 2개 얻습니다.<br></br>그 주문들이 마나 대신 생명력을 비용으로 사용합니다.",
+    "attack": 0,
+    "health": 8,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "쉬이이...",
+    "spellSchool": "",
+    "portrait": "HS35-175_M.tif:52478a828a49439896dff5826509a83a",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 8
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_467.png"
+  }
+}

@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_514","dbfId":117691,"name":"전설의 상인","type":"MINION","cardClass":"ROGUE","rarity":"COMMON","collectible":true,"cost":1,"text":"<b>전투의 함성:</b> <b>전설</b> 하수인을\n<b>발견</b>합니다. 나머지 둘은\n내 덱에 섞어 넣습니다.","attack":1,"health":2,"durability":0,"armor":0,"flavor":"\"동전만 주면 토르톨란이 칼을 줄 겁니다.\"","spellSchool":"","portrait":"HS35-049_M.tif:bb0cc6b5e1c84c69909d302ca12e4102","set":"THE_LOST_CITY","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":415,"name":"발견","value":1},{"id":1342,"name":"발견 시각 효과","value":1}],"races":[],"race":"","classes":[],"art":"art/TLC_514.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-049_M.tif:bb0cc6b5e1c84c69909d302ca12e4102","goldenMaterial":"TLC_514_PremiumCard.mat:ad3828de2d6bb4242926c7c5310086f1","goldenAnimation":"TLC_514_PremiumCard.asset:48a997e2372983349abe0abd793ed1c7"}}
+{
+  "2025-07-09": {
+    "id": "TLC_514",
+    "dbfId": 117691,
+    "name": "전설의 상인",
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>전투의 함성:</b> <b>전설</b> 하수인을<br></br><b>발견</b>합니다. 나머지 둘은<br></br>내 덱에 섞어 넣습니다.",
+    "attack": 1,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"동전만 주면 토르톨란이 칼을 줄 겁니다.\"",
+    "spellSchool": "",
+    "portrait": "HS35-049_M.tif:bb0cc6b5e1c84c69909d302ca12e4102",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_514.png"
+  }
+}

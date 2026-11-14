@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_434","dbfId":117430,"name":"고생물술","type":"SPELL","cardClass":"DEATHKNIGHT","rarity":"RARE","collectible":true,"cost":3,"text":"언데드를 <b>발견</b>합니다.\n<b>시체</b>를 5개 소모해\n셋을 모두 가집니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"죽음은 길을 찾기 마련이다.","spellSchool":"SHADOW","portrait":"HS35-005_S.tif:77730d4cb4374c85a503a1fa05e03253","set":"THE_LOST_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":1},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":415,"name":"발견","value":1},{"id":1635,"name":"주문 속성","value":6},{"id":2198,"name":"부정 룬","value":1},{"id":2559,"name":"시체","value":1},{"id":4058,"name":"시체 소모","value":1}],"races":[],"race":"","classes":[],"art":"art/TLC_434.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-005_S.tif:77730d4cb4374c85a503a1fa05e03253","goldenMaterial":"TLC_434_PremiumCard.mat:d41f1ed44882a804b8e3184d99f04df3","goldenAnimation":"TLC_434_PremiumCard.asset:4330dfb9464c30447bdbf968bb2c4cb4"}}
+{
+  "2025-07-09": {
+    "id": "TLC_434",
+    "dbfId": 117430,
+    "name": "고생물술",
+    "type": "SPELL",
+    "cardClass": "DEATHKNIGHT",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "언데드를 <b>발견</b>합니다.<br></br><b>시체</b>를 5개 소모해<br></br>셋을 모두 가집니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "죽음은 길을 찾기 마련이다.",
+    "spellSchool": "SHADOW",
+    "portrait": "HS35-005_S.tif:77730d4cb4374c85a503a1fa05e03253",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 1
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      },
+      {
+        "id": 2198,
+        "name": "부정 룬",
+        "value": 1
+      },
+      {
+        "id": 2559,
+        "name": "시체",
+        "value": 1
+      },
+      {
+        "id": 4058,
+        "name": "시체 소모",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_434.png"
+  }
+}

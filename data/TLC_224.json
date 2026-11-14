@@ -1,1 +1,80 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_224","dbfId":117534,"name":"기계화 마그마","type":"MINION","cardClass":"SHAMAN","rarity":"COMMON","collectible":true,"cost":4,"text":"내가 화염 주문을 낼 때마다 그 주문의 비용만큼 능력치를 얻습니다.","attack":2,"health":5,"durability":0,"armor":0,"flavor":"화산의 힘이 기계 팔을 움직입니다... 아, 그냥 팔도 움직이고요.","spellSchool":"","portrait":"HS35-057_M.tif:1a697320fb1d4134a9f78201efed24b6","set":"THE_LOST_CITY","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":8},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":2539,"name":"게임 태그 2539","value":1}],"races":["ELEMENTAL","MECHANICAL"],"race":"정령, 기계","classes":[],"art":"art/TLC_224.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-057_M.tif:1a697320fb1d4134a9f78201efed24b6","goldenMaterial":"TLC_224_PremiumCard.mat:369133e3c670826409c5acbbc214eb83","goldenAnimation":"TLC_224_PremiumCard.asset:702368053224fbb4f99bafa4cddeb6ed"}}
+{
+  "2025-07-09": {
+    "id": "TLC_224",
+    "dbfId": 117534,
+    "name": "기계화 마그마",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 4,
+    "text": "내가 화염 주문을 낼 때마다 그 주문의 비용만큼 능력치를 얻습니다.",
+    "attack": 2,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "화산의 힘이 기계 팔을 움직입니다... 아, 그냥 팔도 움직이고요.",
+    "spellSchool": "",
+    "portrait": "HS35-057_M.tif:1a697320fb1d4134a9f78201efed24b6",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2539,
+        "name": "게임 태그 2539",
+        "value": 1
+      }
+    ],
+    "races": [
+      "ELEMENTAL",
+      "MECHANICAL"
+    ],
+    "race": "정령, 기계",
+    "classes": [],
+    "art": "art/TLC_224.png"
+  }
+}

@@ -1,1 +1,57 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_444","dbfId":117679,"name":"갈바돈의 이야기","type":"SPELL","cardClass":"PALADIN","rarity":"RARE","collectible":true,"cost":2,"text":"하수인에게 무작위 <b>추가 효과</b>를 셋 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"\"...그래서 공격력 +12에 <b>질풍</b>까지 줬는데... 믿기 힘들겠지만... 살아남았다니까요.\"","spellSchool":"","portrait":"HS35-148_S.tif:ed14137a48354d4e846f4cbd9063669c","set":"THE_LOST_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":2934,"name":"추가 효과","value":1}],"races":[],"race":"","classes":[],"art":"art/TLC_444.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-148_S.tif:ed14137a48354d4e846f4cbd9063669c","goldenMaterial":"TLC_444_PremiumCard.mat:b3a1bc2721599274490b3885dcfb3028","goldenAnimation":"TLC_444_PremiumCard.asset:24422164891175c449409c2818f3a202"}}
+{
+  "2025-07-09": {
+    "id": "TLC_444",
+    "dbfId": 117679,
+    "name": "갈바돈의 이야기",
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 2,
+    "text": "하수인에게 무작위 <b>추가 효과</b>를 셋 부여합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"...그래서 공격력 +12에 <b>질풍</b>까지 줬는데... 믿기 힘들겠지만... 살아남았다니까요.\"",
+    "spellSchool": "",
+    "portrait": "HS35-148_S.tif:ed14137a48354d4e846f4cbd9063669c",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2934,
+        "name": "추가 효과",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_444.png"
+  }
+}

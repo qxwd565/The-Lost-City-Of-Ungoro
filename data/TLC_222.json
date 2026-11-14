@@ -1,1 +1,57 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_222","dbfId":117606,"name":"불꽃매의 비행","type":"SPELL","cardClass":"SHAMAN","rarity":"COMMON","collectible":true,"cost":3,"text":"종족이 서로 다른 하수인을 둘 뽑습니다. 그 하수인들에게 +1/+1을 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"토르톨란의 유명한 오케스트라 악곡의 제목이기도 합니다.","spellSchool":"FIRE","portrait":"HS35-055_S.tif:d63e24b0fd774ff8a2daa6b9f0ca2709","set":"THE_LOST_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":8},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":2}],"races":[],"race":"","classes":[],"art":"art/TLC_222.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-055_S.tif:d63e24b0fd774ff8a2daa6b9f0ca2709","goldenMaterial":"TLC_222_PremiumCard.mat:4d5731cda570c3e4c8949cde3c3cd925","goldenAnimation":"TLC_222_PremiumCard.asset:70eb563075050314aae55558f1a773a3"}}
+{
+  "2025-07-09": {
+    "id": "TLC_222",
+    "dbfId": 117606,
+    "name": "불꽃매의 비행",
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "종족이 서로 다른 하수인을 둘 뽑습니다. 그 하수인들에게 +1/+1을 부여합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "토르톨란의 유명한 오케스트라 악곡의 제목이기도 합니다.",
+    "spellSchool": "FIRE",
+    "portrait": "HS35-055_S.tif:d63e24b0fd774ff8a2daa6b9f0ca2709",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 2
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_222.png"
+  }
+}

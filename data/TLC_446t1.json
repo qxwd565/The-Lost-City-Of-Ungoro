@@ -1,1 +1,96 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_446t1","dbfId":120968,"name":"언더펠 균열","type":"MINION","cardClass":"WARLOCK","collectible":false,"cost":5,"text":"균열을 선택하여 활성화합니다. 카드를 균열로 던져 넣어 무작위 지옥 야수 2마리를 소환합니다. <i>(한 턴에 한 번)</i>","attack":0,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS35-179_M.tif:7b4032318a9d4eeca49934c32ec6dbd6","set":"THE_LOST_CITY","nativeTags":[{"id":2,"name":"효과 수치 1","value":1},{"id":45,"name":"생명력","value":1},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":4},{"id":402,"name":"능력치 숨김","value":1},{"id":448,"name":"대상 지정 불가","value":1},{"id":684,"name":"비용 숨김","value":1},{"id":1508,"name":"손의 카드 대상 지정","value":1},{"id":4089,"name":"상호작용 대상","value":1},{"id":4090,"name":"상호작용 비용","value":0},{"id":4257,"name":"사용 횟수","value":1},{"id":4839,"name":"상호작용 대기 애니메이션 유형","value":1}],"races":[],"race":"","classes":[],"art":"art/TLC_446t1.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-179_M.tif:7b4032318a9d4eeca49934c32ec6dbd6","goldenMaterial":"TLC_446t1_PremiumCard.mat:6a4cdb108107f0d49a2123e7be3a19ae","goldenAnimation":"TLC_446t1_PremiumCard.asset:25c0467c8bb5ff646b5aa10f6bddc8e2"}}
+{
+  "2025-07-09": {
+    "id": "TLC_446t1",
+    "dbfId": 120968,
+    "name": "언더펠 균열",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "collectible": false,
+    "cost": 5,
+    "text": "균열을 선택하여 활성화합니다. 카드를 균열로 던져 넣어 무작위 지옥 야수 2마리를 소환합니다. <i>(한 턴에 한 번)</i>",
+    "attack": 0,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS35-179_M.tif:7b4032318a9d4eeca49934c32ec6dbd6",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 402,
+        "name": "능력치 숨김",
+        "value": 1
+      },
+      {
+        "id": 448,
+        "name": "대상 지정 불가",
+        "value": 1
+      },
+      {
+        "id": 684,
+        "name": "비용 숨김",
+        "value": 1
+      },
+      {
+        "id": 1508,
+        "name": "손의 카드 대상 지정",
+        "value": 1
+      },
+      {
+        "id": 4089,
+        "name": "상호작용 대상",
+        "value": 1
+      },
+      {
+        "id": 4090,
+        "name": "상호작용 비용",
+        "value": 0
+      },
+      {
+        "id": 4257,
+        "name": "사용 횟수",
+        "value": 1
+      },
+      {
+        "id": 4839,
+        "name": "상호작용 대기 애니메이션 유형",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_446t1.png"
+  }
+}

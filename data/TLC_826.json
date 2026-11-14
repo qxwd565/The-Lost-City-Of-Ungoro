@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_826","dbfId":117599,"name":"칼나사의 이야기","type":"SPELL","cardClass":"HUNTER","rarity":"RARE","collectible":true,"cost":2,"text":"\"<b>전투의 함성:</b> 카드를 뽑습니다.\" 능력이 있는 비용이 1인 3/2 랩터 열을 내 덱에 섞어 넣습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"\"...그리고 랩터 열 마리가 전부 덱 위쪽에 있었단다!\"","spellSchool":"","portrait":"HS35-139_S.tif:73aca7acbf194e579da037ab97b4b8bd","set":"THE_LOST_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":3},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":42013}],"races":[],"race":"","classes":[],"art":"art/TLC_826.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-139_S.tif:73aca7acbf194e579da037ab97b4b8bd","goldenMaterial":"TLC_826_PremiumCard.mat:b53bd387a4cc34d419a181e7aed8cd26","goldenAnimation":"TLC_826_PremiumCard.asset:10b59f60522892a44b51b09a98943824"}}
+{
+  "2025-07-09": {
+    "id": "TLC_826",
+    "dbfId": 117599,
+    "name": "칼나사의 이야기",
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 2,
+    "text": "\"<b>전투의 함성:</b> 카드를 뽑습니다.\" 능력이 있는 비용이 1인 3/2 랩터 열을 내 덱에 섞어 넣습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"...그리고 랩터 열 마리가 전부 덱 위쪽에 있었단다!\"",
+    "spellSchool": "",
+    "portrait": "HS35-139_S.tif:73aca7acbf194e579da037ab97b4b8bd",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 42013
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_826.png"
+  }
+}

@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DINO_411","dbfId":118496,"name":"신성한 알지기","type":"MINION","cardClass":"NEUTRAL","rarity":"RARE","collectible":true,"cost":2,"text":"<b>전투의 함성:</b> 공격력이 0인 하수인을 뽑습니다.","attack":1,"health":2,"durability":0,"armor":0,"flavor":"일이 잘 안 풀리면, 신성한 요리사로 전직하지 뭐!","spellSchool":"","portrait":"HS35-335_M.tif:830f1ac3fff3481a97200ddc933e23c7","set":"THE_LOST_CITY","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/DINO_411.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-335_M.tif:830f1ac3fff3481a97200ddc933e23c7","goldenMaterial":"DINO_411_PremiumCard.mat:08bf7ccbcbe3f594ab29ea817df8a719","goldenAnimation":"DINO_411_PremiumCard.asset:2d6ded8e57bab2f479ad14f925f9012b"}}
+{
+  "2025-09-03": {
+    "id": "DINO_411",
+    "dbfId": 118496,
+    "name": "신성한 알지기",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>전투의 함성:</b> 공격력이 0인 하수인을 뽑습니다.",
+    "attack": 1,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "일이 잘 안 풀리면, 신성한 요리사로 전직하지 뭐!",
+    "spellSchool": "",
+    "portrait": "HS35-335_M.tif:830f1ac3fff3481a97200ddc933e23c7",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DINO_411.png"
+  }
+}

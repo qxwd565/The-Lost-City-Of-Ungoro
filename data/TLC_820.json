@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_820","dbfId":117565,"name":"숲 생태학자","type":"MINION","cardClass":"PRIEST","rarity":"RARE","collectible":true,"cost":1,"text":"<b>죽음의 메아리:</b> 비용이 1이고 하수인에게 생명력을 +2 또는 -2 부여하는 신성 주문을 얻습니다.","attack":2,"health":1,"durability":0,"armor":0,"flavor":"이 친구는 부전공으로 언더펠 생물학을 공부했습니다. 진짜 르네상스 토르톨란이라고 할 수 있겠죠!","spellSchool":"","portrait":"HS35-156_M.tif:10ba5e590b8f47688e7d8f0ef0ef1ee7","set":"THE_LOST_CITY","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1078,"name":"마우스를 올리면 카드 표시","value":117310},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":117310}],"races":[],"race":"","classes":[],"art":"art/TLC_820.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-156_M.tif:10ba5e590b8f47688e7d8f0ef0ef1ee7","goldenMaterial":"TLC_820_PremiumCard.mat:bdd94bf1d8705694d923447b610ffe8f","goldenAnimation":"TLC_820_PremiumCard.asset:e1d7a4ec87e60bc42b633233f9a6e8c6"}}
+{
+  "2025-07-09": {
+    "id": "TLC_820",
+    "dbfId": 117565,
+    "name": "숲 생태학자",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>죽음의 메아리:</b> 비용이 1이고 하수인에게 생명력을 +2 또는 -2 부여하는 신성 주문을 얻습니다.",
+    "attack": 2,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "이 친구는 부전공으로 언더펠 생물학을 공부했습니다. 진짜 르네상스 토르톨란이라고 할 수 있겠죠!",
+    "spellSchool": "",
+    "portrait": "HS35-156_M.tif:10ba5e590b8f47688e7d8f0ef0ef1ee7",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1078,
+        "name": "마우스를 올리면 카드 표시",
+        "value": 117310
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 117310
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_820.png"
+  }
+}

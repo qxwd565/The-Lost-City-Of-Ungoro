@@ -1,1 +1,88 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_817t4","dbfId":118552,"name":"죽음의 손길 솔에토스","type":"MINION","cardClass":"PRIEST","collectible":false,"cost":5,"text":"<b>환생</b>. <b>죽음의 메아리:</b> 무작위 적에게 피해를 5 줍니다. <i>솔에토스의 반쪽을 둘 다 들고 있으면 합칩니다!</i>","attack":4,"health":4,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS35-048_M.tif:29073a5827354c19bdd03674dbe9027e","set":"THE_LOST_CITY","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":6},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4},{"id":217,"name":"죽음의 메아리","value":1},{"id":1078,"name":"마우스를 올리면 카드 표시","value":119879},{"id":1085,"name":"환생","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":119879},{"id":2589,"name":"간판 카드 존재","value":1}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/TLC_817t4.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-048_M.tif:29073a5827354c19bdd03674dbe9027e","goldenMaterial":"TLC_817t4_PremiumCard.mat:9a9c74e7b020edf49af78bc8c9d24ed4","goldenAnimation":"TLC_817t4_PremiumCard.asset:1b79d09962e8b1744974db0714dbd18f"}}
+{
+  "2025-07-09": {
+    "id": "TLC_817t4",
+    "dbfId": 118552,
+    "name": "죽음의 손길 솔에토스",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "collectible": false,
+    "cost": 5,
+    "text": "<b>환생</b>. <b>죽음의 메아리:</b> 무작위 적에게 피해를 5 줍니다. <i>솔에토스의 반쪽을 둘 다 들고 있으면 합칩니다!</i>",
+    "attack": 4,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS35-048_M.tif:29073a5827354c19bdd03674dbe9027e",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 1078,
+        "name": "마우스를 올리면 카드 표시",
+        "value": 119879
+      },
+      {
+        "id": 1085,
+        "name": "환생",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 119879
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/TLC_817t4.png"
+  }
+}

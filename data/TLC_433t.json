@@ -1,1 +1,84 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_433t","dbfId":117707,"name":"공포의 뼈 타이랙스","type":"MINION","cardClass":"DEATHKNIGHT","collectible":false,"cost":5,"text":"<b>죽음의 메아리:</b> 공포의 무덤을 엽니다. 공포의 무덤이 \"<b>죽음의 메아리:</b> 타이랙스를 다시 소환합니다.\"를 얻습니다.","attack":8,"health":8,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS35-008_M.tif:60bca917c0644f15a34e6f44b3a9ea54","set":"THE_LOST_CITY","nativeTags":[{"id":45,"name":"생명력","value":8},{"id":47,"name":"공격력","value":8},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":1},{"id":200,"name":"종족","value":11},{"id":202,"name":"카드 유형","value":4},{"id":217,"name":"죽음의 메아리","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":119897},{"id":2542,"name":"게임 태그 2542","value":1},{"id":2589,"name":"간판 카드 존재","value":1}],"races":["UNDEAD","BEAST"],"race":"언데드, 야수","classes":[],"art":"art/TLC_433t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-008_M.tif:60bca917c0644f15a34e6f44b3a9ea54","goldenMaterial":"TLC_433t_PremiumCard.mat:c9764757fb46cac478724a0a80ac788c","goldenAnimation":"TLC_433t_PremiumCard.asset:2dc0587d0ded3b740810a936775260d7"}}
+{
+  "2025-07-09": {
+    "id": "TLC_433t",
+    "dbfId": 117707,
+    "name": "공포의 뼈 타이랙스",
+    "type": "MINION",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": false,
+    "cost": 5,
+    "text": "<b>죽음의 메아리:</b> 공포의 무덤을 엽니다. 공포의 무덤이 \"<b>죽음의 메아리:</b> 타이랙스를 다시 소환합니다.\"를 얻습니다.",
+    "attack": 8,
+    "health": 8,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS35-008_M.tif:60bca917c0644f15a34e6f44b3a9ea54",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 8
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 8
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 1
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 11
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 119897
+      },
+      {
+        "id": 2542,
+        "name": "게임 태그 2542",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      }
+    ],
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "race": "언데드, 야수",
+    "classes": [],
+    "art": "art/TLC_433t.png"
+  }
+}

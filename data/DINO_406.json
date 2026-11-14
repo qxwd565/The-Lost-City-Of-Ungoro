@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DINO_406","dbfId":118480,"name":"불의 숨결","type":"SPELL","cardClass":"SHAMAN","rarity":"COMMON","collectible":true,"cost":3,"text":"피해를 $4 줍니다. 내 정령들에게 +1/+1을 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"느긋하게 구경이나 할까요?","spellSchool":"FIRE","portrait":"HS35-326_S.tif:122f0bdabb224ddd8944337d523cead0","set":"THE_LOST_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":8},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":2},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/DINO_406.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-326_S.tif:122f0bdabb224ddd8944337d523cead0","goldenMaterial":"TLC_100t24_PremiumCard.mat:b3eb7bdeb743f724c8d8c243cf869892","goldenAnimation":"TLC_100t24_PremiumCard.asset:fa06cdca5496b5644b655b650ee8b2b7"}}
+{
+  "2025-09-03": {
+    "id": "DINO_406",
+    "dbfId": 118480,
+    "name": "불의 숨결",
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "피해를 $4 줍니다. 내 정령들에게 +1/+1을 부여합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "느긋하게 구경이나 할까요?",
+    "spellSchool": "FIRE",
+    "portrait": "HS35-326_S.tif:122f0bdabb224ddd8944337d523cead0",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 2
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DINO_406.png"
+  }
+}

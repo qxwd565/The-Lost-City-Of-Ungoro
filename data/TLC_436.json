@@ -1,1 +1,105 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_436","dbfId":117434,"name":"되살아난 테러닥스","type":"MINION","cardClass":"DEATHKNIGHT","rarity":"EPIC","collectible":true,"cost":5,"text":"<b><b>속공</b>, 생명력 흡수</b>\n마나 대신 <b>시체</b>를 비용으로 사용합니다.","attack":4,"health":3,"durability":0,"armor":0,"flavor":"푸드득 소리가 정말 무섭습니다.","spellSchool":"","portrait":"HS35-003_M.tif:0c7a859678b9427c8b4ea0ddfaef1aaa","set":"THE_LOST_CITY","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":1},{"id":200,"name":"종족","value":11},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":685,"name":"생명력 흡수","value":1},{"id":791,"name":"속공","value":1},{"id":2542,"name":"게임 태그 2542","value":1},{"id":2559,"name":"시체","value":1},{"id":2837,"name":"대체 비용","value":3},{"id":4058,"name":"시체 소모","value":1}],"races":["UNDEAD","BEAST"],"race":"언데드, 야수","classes":[],"art":"art/TLC_436.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-003_M.tif:0c7a859678b9427c8b4ea0ddfaef1aaa","goldenMaterial":"TLC_436_PremiumCard.mat:cc83cc11ef1bcaf43935f4aa96b57419","goldenAnimation":"TLC_436_PremiumCard.asset:1d0e353d71dbf024fa33e9772b59daac"}}
+{
+  "2025-07-09": {
+    "id": "TLC_436",
+    "dbfId": 117434,
+    "name": "되살아난 테러닥스",
+    "type": "MINION",
+    "cardClass": "DEATHKNIGHT",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b><b>속공</b>, 생명력 흡수</b><br></br>마나 대신 <b>시체</b>를 비용으로 사용합니다.",
+    "attack": 4,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "푸드득 소리가 정말 무섭습니다.",
+    "spellSchool": "",
+    "portrait": "HS35-003_M.tif:0c7a859678b9427c8b4ea0ddfaef1aaa",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 1
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 11
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 685,
+        "name": "생명력 흡수",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 2542,
+        "name": "게임 태그 2542",
+        "value": 1
+      },
+      {
+        "id": 2559,
+        "name": "시체",
+        "value": 1
+      },
+      {
+        "id": 2837,
+        "name": "대체 비용",
+        "value": 3
+      },
+      {
+        "id": 4058,
+        "name": "시체 소모",
+        "value": 1
+      }
+    ],
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "race": "언데드, 야수",
+    "classes": [],
+    "art": "art/TLC_436.png"
+  }
+}

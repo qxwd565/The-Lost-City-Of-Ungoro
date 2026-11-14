@@ -1,1 +1,82 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DINO_419","dbfId":118563,"name":"초식성 조수","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":3,"text":"<b>전투의 함성:</b> 아군\n야수에게 +2/+2와\n<b>속공</b>을 부여합니다.","attack":3,"health":2,"durability":0,"armor":0,"flavor":"오후 일정이 꽉 찼군요. 풀 뜯어 먹기는 어슬렁거리기랑 겹쳐서 다른 날로 옮겨야겠어요.","spellSchool":"","portrait":"HS35-323_M.tif:5cb5eeefb7914ac485b22fc88a58dcc0","set":"THE_LOST_CITY","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":12},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":791,"name":"속공","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/DINO_419.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-323_M.tif:5cb5eeefb7914ac485b22fc88a58dcc0","goldenMaterial":"DINO_419_PremiumCard.mat:e8270a2b79defe34a88e72650d0b160a","goldenAnimation":"DINO_419_PremiumCard.asset:a989224863cc8cf4e9da1c1bbbf7eccf"}}
+{
+  "2025-09-03": {
+    "id": "DINO_419",
+    "dbfId": 118563,
+    "name": "초식성 조수",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>전투의 함성:</b> 아군<br></br>야수에게 +2/+2와<br></br><b>속공</b>을 부여합니다.",
+    "attack": 3,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "오후 일정이 꽉 찼군요. 풀 뜯어 먹기는 어슬렁거리기랑 겹쳐서 다른 날로 옮겨야겠어요.",
+    "spellSchool": "",
+    "portrait": "HS35-323_M.tif:5cb5eeefb7914ac485b22fc88a58dcc0",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DINO_419.png"
+  }
+}

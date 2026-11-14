@@ -1,1 +1,61 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_433t2","dbfId":119897,"name":"공포의 무덤","type":"LOCATION","cardClass":"DEATHKNIGHT","collectible":false,"cost":5,"text":"피해를 4 줍니다.\n<b>죽음의 메아리:</b>\n공포의 뼈 타이랙스를\n다시 소환합니다.","attack":0,"health":2,"durability":2,"armor":0,"flavor":"","spellSchool":"","portrait":"HS35-124_L.tif:a7db02786ab14ad5ae171ce124429c2c","set":"THE_LOST_CITY","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":1},{"id":202,"name":"카드 유형","value":39},{"id":217,"name":"죽음의 메아리","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":117707}],"races":[],"race":"","classes":[],"art":"art/TLC_433t2.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-124_L.tif:a7db02786ab14ad5ae171ce124429c2c","goldenMaterial":"TLC_433t2_PremiumCard.mat:5df75860bf43ec146bead16b2b09d19e","goldenAnimation":"TLC_433t2_PremiumCard.asset:1cd03e214827f2146ac189a2c860fd65"}}
+{
+  "2025-07-09": {
+    "id": "TLC_433t2",
+    "dbfId": 119897,
+    "name": "공포의 무덤",
+    "type": "LOCATION",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": false,
+    "cost": 5,
+    "text": "피해를 4 줍니다.<br></br><b>죽음의 메아리:</b><br></br>공포의 뼈 타이랙스를<br></br>다시 소환합니다.",
+    "attack": 0,
+    "health": 2,
+    "durability": 2,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS35-124_L.tif:a7db02786ab14ad5ae171ce124429c2c",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 1
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 39
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 117707
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_433t2.png"
+  }
+}

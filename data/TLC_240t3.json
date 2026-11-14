@@ -1,1 +1,58 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_240t3","dbfId":120588,"name":"공룡록","type":"MINION","cardClass":"PALADIN","collectible":false,"cost":2,"text":"","attack":2,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS35-153_M.tif:0bd44e113d0a4cca973bcfefe0eb90ff","set":"THE_LOST_CITY","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":5},{"id":200,"name":"종족","value":14},{"id":202,"name":"카드 유형","value":4}],"races":["MURLOC"],"race":"멀록","classes":[],"art":"art/TLC_240t3.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-153_M.tif:0bd44e113d0a4cca973bcfefe0eb90ff","goldenMaterial":"TLC_240t3_PremiumCard.mat:4da8ba5fcb5a2d843b8b15aea3b1fa6f","goldenAnimation":"TLC_240t3_PremiumCard.asset:22678cbc227313844b30774cbe0d5386"}}
+{
+  "2025-07-09": {
+    "id": "TLC_240t3",
+    "dbfId": 120588,
+    "name": "공룡록",
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "collectible": false,
+    "cost": 2,
+    "text": "",
+    "attack": 2,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS35-153_M.tif:0bd44e113d0a4cca973bcfefe0eb90ff",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      }
+    ],
+    "races": [
+      "MURLOC"
+    ],
+    "race": "멀록",
+    "classes": [],
+    "art": "art/TLC_240t3.png"
+  }
+}

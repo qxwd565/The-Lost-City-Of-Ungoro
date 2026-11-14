@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DINO_408","dbfId":118484,"name":"수정 엄니","type":"WEAPON","cardClass":"ROGUE","rarity":"RARE","collectible":true,"cost":2,"text":"<b>전투의 함성:</b> 내 손에서 가장 왼쪽에 있는 카드를 내 덱에 섞어 넣습니다. <b>죽음의 메아리:</b> 카드를 2장 뽑습니다.","attack":2,"health":0,"durability":2,"armor":0,"flavor":"한참 봤는데, 외계인 나오는 영화라고 하지 않았나요?","spellSchool":"","portrait":"HS35-324_W.tif:e87133084d644e85952677ad5284356b","set":"THE_LOST_CITY","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":7},{"id":203,"name":"희귀도","value":3},{"id":217,"name":"죽음의 메아리","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/DINO_408.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-324_W.tif:e87133084d644e85952677ad5284356b","goldenMaterial":"DINO_408_PremiumCard.mat:d1b03599558e8ec4f9c4c50c98598411","goldenAnimation":"DINO_408_PremiumCard.asset:f751a6cb59c7a304392e994367c30ed8"}}
+{
+  "2025-09-03": {
+    "id": "DINO_408",
+    "dbfId": 118484,
+    "name": "수정 엄니",
+    "type": "WEAPON",
+    "cardClass": "ROGUE",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>전투의 함성:</b> 내 손에서 가장 왼쪽에 있는 카드를 내 덱에 섞어 넣습니다. <b>죽음의 메아리:</b> 카드를 2장 뽑습니다.",
+    "attack": 2,
+    "health": 0,
+    "durability": 2,
+    "armor": 0,
+    "flavor": "한참 봤는데, 외계인 나오는 영화라고 하지 않았나요?",
+    "spellSchool": "",
+    "portrait": "HS35-324_W.tif:e87133084d644e85952677ad5284356b",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 7
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DINO_408.png"
+  }
+}

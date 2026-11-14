@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_365","dbfId":118266,"name":"창고 실랑이","type":"SPELL","cardClass":"MAGE","rarity":"RARE","collectible":true,"cost":3,"text":"하수인에게 피해를\n$3 줍니다. 이번 턴에 내가 <b>발견</b>했으면, 비용이 (0)이 됩니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"줄 맞추기! 이리저리 뒤섞기! 분류하고 바꾸기! 창고 실랑이는 끝이 없습니다!","spellSchool":"ARCANE","portrait":"HS35-037_S.tif:d6cf8acad5ad4e0d8c53ac07f0401e6c","set":"THE_LOST_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":415,"name":"발견","value":1},{"id":1635,"name":"주문 속성","value":1}],"races":[],"race":"","classes":[],"art":"art/TLC_365.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-037_S.tif:d6cf8acad5ad4e0d8c53ac07f0401e6c","goldenMaterial":"TLC_365_PremiumCard.mat:b4e3b32012fea5e4392be3f43cb726a1","goldenAnimation":"TLC_365_PremiumCard.asset:3e0c441d5dbd2784187a238751d9fb1e"}}
+{
+  "2025-07-09": {
+    "id": "TLC_365",
+    "dbfId": 118266,
+    "name": "창고 실랑이",
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "하수인에게 피해를<br></br>$3 줍니다. 이번 턴에 내가 <b>발견</b>했으면, 비용이 (0)이 됩니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "줄 맞추기! 이리저리 뒤섞기! 분류하고 바꾸기! 창고 실랑이는 끝이 없습니다!",
+    "spellSchool": "ARCANE",
+    "portrait": "HS35-037_S.tif:d6cf8acad5ad4e0d8c53ac07f0401e6c",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_365.png"
+  }
+}

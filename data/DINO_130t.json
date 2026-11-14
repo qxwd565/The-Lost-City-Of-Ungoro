@@ -1,1 +1,63 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DINO_130t","dbfId":118489,"name":"아기 긴목공룡","type":"MINION","cardClass":"DRUID","collectible":false,"cost":3,"text":"","attack":3,"health":3,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS35-308_M.tif:1beff46e27db4a169a8fed51d1c31bb5","set":"THE_LOST_CITY","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":2},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":1824,"name":"미니 세트","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/DINO_130t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-308_M.tif:1beff46e27db4a169a8fed51d1c31bb5","goldenMaterial":"DINO_130t_PremiumCard.mat:4339f95c36e0b964e857b622851eccc4","goldenAnimation":"DINO_130t_PremiumCard.asset:5eb0c530e01d604459aa655db44427f9"}}
+{
+  "2025-09-03": {
+    "id": "DINO_130t",
+    "dbfId": 118489,
+    "name": "아기 긴목공룡",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "collectible": false,
+    "cost": 3,
+    "text": "",
+    "attack": 3,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS35-308_M.tif:1beff46e27db4a169a8fed51d1c31bb5",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/DINO_130t.png"
+  }
+}

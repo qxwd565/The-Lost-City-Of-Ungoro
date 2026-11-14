@@ -1,1 +1,82 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_479","dbfId":119789,"name":"죽음부패 아귀","type":"MINION","cardClass":"WARLOCK","rarity":"RARE","collectible":true,"cost":6,"text":"<b>도발</b>, <b>죽음의 메아리</b>: 무작위 지옥 야수를 소환합니다.","attack":2,"health":8,"durability":0,"armor":0,"flavor":"오, 걱정 마세요. 우리 아귀는 안 물어요.","spellSchool":"","portrait":"HS35-176_M.tif:323578143b9a4c50bdd64ed71a870898","set":"THE_LOST_CITY","nativeTags":[{"id":45,"name":"생명력","value":8},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":6},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":9},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":4533,"name":"제작 결과 능력","value":1}],"races":[],"race":"","classes":[],"art":"art/TLC_479.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-176_M.tif:323578143b9a4c50bdd64ed71a870898","goldenMaterial":"TLC_479_PremiumCard.mat:9b802b3fe252a2b42a2cba9607530abc","goldenAnimation":"TLC_479_PremiumCard.asset:58cd0c662a279014fad185fb9e6a6bfb"}}
+{
+  "2025-07-09": {
+    "id": "TLC_479",
+    "dbfId": 119789,
+    "name": "죽음부패 아귀",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>도발</b>, <b>죽음의 메아리</b>: 무작위 지옥 야수를 소환합니다.",
+    "attack": 2,
+    "health": 8,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "오, 걱정 마세요. 우리 아귀는 안 물어요.",
+    "spellSchool": "",
+    "portrait": "HS35-176_M.tif:323578143b9a4c50bdd64ed71a870898",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 8
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 4533,
+        "name": "제작 결과 능력",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_479.png"
+  }
+}

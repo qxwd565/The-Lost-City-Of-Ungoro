@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_366","dbfId":118269,"name":"테러윙 약탈자","type":"MINION","cardClass":"HUNTER","rarity":"RARE","collectible":true,"cost":6,"text":"<b>속공</b>, <b>유사:</b> 비용이 (2) 감소합니다.","attack":7,"health":5,"durability":0,"armor":0,"flavor":"사실 익룡이 나는 곳과 같은 높이에서 떨어지면 누구나 비명을 지릅니다.","spellSchool":"","portrait":"HS35-028_M.tif:2997446b17af4a08afe374796460813f","set":"THE_LOST_CITY","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":7},{"id":48,"name":"마나 비용","value":6},{"id":199,"name":"직업","value":3},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":791,"name":"속공","value":1},{"id":4028,"name":"유사","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/TLC_366.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-028_M.tif:2997446b17af4a08afe374796460813f","goldenMaterial":"TLC_366_PremiumCard.mat:2a74244cf8c64fd478a03bf5276924bd","goldenAnimation":"TLC_366_PremiumCard.asset:c5ac0cb7c76bd3b4d8f0833184bee8e3"}}
+{
+  "2025-07-09": {
+    "id": "TLC_366",
+    "dbfId": 118269,
+    "name": "테러윙 약탈자",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>속공</b>, <b>유사:</b> 비용이 (2) 감소합니다.",
+    "attack": 7,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "사실 익룡이 나는 곳과 같은 높이에서 떨어지면 누구나 비명을 지릅니다.",
+    "spellSchool": "",
+    "portrait": "HS35-028_M.tif:2997446b17af4a08afe374796460813f",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 7
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 4028,
+        "name": "유사",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/TLC_366.png"
+  }
+}

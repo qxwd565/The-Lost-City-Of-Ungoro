@@ -1,1 +1,41 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_100t26","dbfId":117808,"name":"용암 흐름","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":0,"text":"방어도를 6 얻습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS35-110_S.tif:f379cd2c8445447ab28d4f67fba4e606","set":"THE_LOST_CITY","nativeTags":[{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":5},{"id":684,"name":"비용 숨김","value":1}],"races":[],"race":"","classes":[],"art":"art/TLC_100t26.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-110_S.tif:f379cd2c8445447ab28d4f67fba4e606","goldenMaterial":"TLC_100t16_PremiumCard.mat:ac861b39404c4da4c9611afae4a91959","goldenAnimation":"TLC_100t16_PremiumCard.asset:a3c9482880ee83e4997ac188a97b9c67"}}
+{
+  "2025-07-09": {
+    "id": "TLC_100t26",
+    "dbfId": 117808,
+    "name": "용암 흐름",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 0,
+    "text": "방어도를 6 얻습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS35-110_S.tif:f379cd2c8445447ab28d4f67fba4e606",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 684,
+        "name": "비용 숨김",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_100t26.png"
+  }
+}

@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DINO_433","dbfId":118730,"name":"경비 임무","type":"SPELL","cardClass":"WARRIOR","rarity":"COMMON","collectible":true,"cost":7,"text":"비용이 6, 4, 2인\n무작위 <b>도발</b> 하수인을 소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"친구들은 공룡이랑 싸우러 나갔는데, 왜 저는 경비만 봐야 해요?","spellSchool":"","portrait":"HS35-332_S.tif:aced2c0e41354f6789c0329d5ff2b21d","set":"THE_LOST_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":7},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":10},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/DINO_433.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-332_S.tif:aced2c0e41354f6789c0329d5ff2b21d","goldenMaterial":"DINO_433_PremiumCard.mat:447d765e713ee7544bd8297c335942c8","goldenAnimation":"DINO_433_PremiumCard.asset:a5ad7662b1ace8143b6e2efa4ae79675"}}
+{
+  "2025-09-03": {
+    "id": "DINO_433",
+    "dbfId": 118730,
+    "name": "경비 임무",
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 7,
+    "text": "비용이 6, 4, 2인<br></br>무작위 <b>도발</b> 하수인을 소환합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "친구들은 공룡이랑 싸우러 나갔는데, 왜 저는 경비만 봐야 해요?",
+    "spellSchool": "",
+    "portrait": "HS35-332_S.tif:aced2c0e41354f6789c0329d5ff2b21d",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DINO_433.png"
+  }
+}

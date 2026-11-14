@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_451","dbfId":117892,"name":"저주받은 지하 미궁","type":"SPELL","cardClass":"WARLOCK","rarity":"EPIC","collectible":true,"cost":0,"text":"내 덱에서 카드를 한 장 더 <b>발견</b>합니다.\n그 카드를 <b>일시적</b>으로 만듭니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"이 하수인은 일시적으로 저주 받았습니다. 일시적이라니까요.","spellSchool":"FEL","portrait":"HS35-065_S.tif:f71b8558b6904fa792a00d160e014339","set":"THE_LOST_CITY","nativeTags":[{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":415,"name":"발견","value":1},{"id":1342,"name":"발견 시각 효과","value":1},{"id":1635,"name":"주문 속성","value":7},{"id":3630,"name":"게임 태그 3630","value":1}],"races":[],"race":"","classes":[],"art":"art/TLC_451.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-065_S.tif:f71b8558b6904fa792a00d160e014339","goldenMaterial":"TLC_451_PremiumCard.mat:2a0c8ea5170dd2845a7d1a1dcac3968d","goldenAnimation":"TLC_451_PremiumCard.asset:f0258ee50aa8e5b4f9b234ab00aefeb6"}}
+{
+  "2025-07-09": {
+    "id": "TLC_451",
+    "dbfId": 117892,
+    "name": "저주받은 지하 미궁",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 0,
+    "text": "내 덱에서 카드를 한 장 더 <b>발견</b>합니다.<br></br>그 카드를 <b>일시적</b>으로 만듭니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "이 하수인은 일시적으로 저주 받았습니다. 일시적이라니까요.",
+    "spellSchool": "FEL",
+    "portrait": "HS35-065_S.tif:f71b8558b6904fa792a00d160e014339",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 7
+      },
+      {
+        "id": 3630,
+        "name": "게임 태그 3630",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_451.png"
+  }
+}

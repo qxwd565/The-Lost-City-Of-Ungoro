@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_220","dbfId":117531,"name":"세찬바람 책장넘김이","type":"MINION","cardClass":"MAGE","rarity":"COMMON","collectible":true,"cost":4,"text":"내가 정령을 소환한 후에, 무작위 적에게 피해를 3 줍니다.","attack":4,"health":5,"durability":0,"armor":0,"flavor":"이 이야기를 읽고 있으면 책장이 바람처럼 넘어갈 겁니다.","spellSchool":"","portrait":"HS35-142_M.tif:1b330520386549b79dba5bfc9d7a3f2b","set":"THE_LOST_CITY","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":4},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":4533,"name":"제작 결과 능력","value":1}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/TLC_220.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-142_M.tif:1b330520386549b79dba5bfc9d7a3f2b","goldenMaterial":"TLC_220_PremiumCard.mat:196ad62d75684204a88479d48321568b","goldenAnimation":"TLC_220_PremiumCard.asset:db79cca3931c0f04daa6bb550af9d798"}}
+{
+  "2025-07-09": {
+    "id": "TLC_220",
+    "dbfId": 117531,
+    "name": "세찬바람 책장넘김이",
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 4,
+    "text": "내가 정령을 소환한 후에, 무작위 적에게 피해를 3 줍니다.",
+    "attack": 4,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "이 이야기를 읽고 있으면 책장이 바람처럼 넘어갈 겁니다.",
+    "spellSchool": "",
+    "portrait": "HS35-142_M.tif:1b330520386549b79dba5bfc9d7a3f2b",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 4533,
+        "name": "제작 결과 능력",
+        "value": 1
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/TLC_220.png"
+  }
+}

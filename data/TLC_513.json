@@ -1,1 +1,97 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_513","dbfId":117222,"name":"잠복","type":"SPELL","cardClass":"ROGUE","rarity":"LEGENDARY","collectible":true,"cost":1,"text":"<b>퀘스트:</b> 내 덱에 카드를\n5번 섞어 넣어야 합니다.\n<b>보상: </b>사부 더스크","attack":0,"health":0,"durability":0,"armor":0,"flavor":"2일째. 우리가 분화구에서 보낸 첫날 밤은 내 묵은 등딱지에는 조금 불편했다. 우리가 감시당하고 있다는 느낌을 떨칠 수가 없다. 나는 어둠 속에서 은색으로 번뜩이는 물체를 똑똑히 봤다. 아침 먹을 때 움브라에게 물어보려고 했는데, 그녀는 오지 않았다.","spellSchool":"","portrait":"HS35-054_S.tif:b09ce0db1baf4a2299a0849a72f007e6","set":"THE_LOST_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":5},{"id":321,"name":"수집 가능","value":1},{"id":462,"name":"퀘스트","value":1},{"id":535,"name":"퀘스트 완료 조건","value":5},{"id":676,"name":"무작위 선택 제외","value":1},{"id":839,"name":"게임 태그 839","value":1},{"id":1089,"name":"퀘스트 보상 데이터베이스 ID","value":117224},{"id":2589,"name":"간판 카드 존재","value":1},{"id":3674,"name":"게임 태그 3674","value":1},{"id":4297,"name":"게임 태그 4297","value":1}],"races":[],"race":"","classes":[],"art":"art/TLC_513.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-054_S.tif:b09ce0db1baf4a2299a0849a72f007e6","goldenMaterial":"TLC_513_PremiumCard.mat:2d7fd9721ff8940438d5da04960fc5c4","goldenAnimation":"TLC_513_PremiumCard.asset:02fe955219207bd43b56c25e87686601"}}
+{
+  "2025-07-09": {
+    "id": "TLC_513",
+    "dbfId": 117222,
+    "name": "잠복",
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>퀘스트:</b> 내 덱에 카드를<br></br>5번 섞어 넣어야 합니다.<br></br><b>보상: </b>사부 더스크",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "2일째. 우리가 분화구에서 보낸 첫날 밤은 내 묵은 등딱지에는 조금 불편했다. 우리가 감시당하고 있다는 느낌을 떨칠 수가 없다. 나는 어둠 속에서 은색으로 번뜩이는 물체를 똑똑히 봤다. 아침 먹을 때 움브라에게 물어보려고 했는데, 그녀는 오지 않았다.",
+    "spellSchool": "",
+    "portrait": "HS35-054_S.tif:b09ce0db1baf4a2299a0849a72f007e6",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 462,
+        "name": "퀘스트",
+        "value": 1
+      },
+      {
+        "id": 535,
+        "name": "퀘스트 완료 조건",
+        "value": 5
+      },
+      {
+        "id": 676,
+        "name": "무작위 선택 제외",
+        "value": 1
+      },
+      {
+        "id": 839,
+        "name": "게임 태그 839",
+        "value": 1
+      },
+      {
+        "id": 1089,
+        "name": "퀘스트 보상 데이터베이스 ID",
+        "value": 117224
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      },
+      {
+        "id": 3674,
+        "name": "게임 태그 3674",
+        "value": 1
+      },
+      {
+        "id": 4297,
+        "name": "게임 태그 4297",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_513.png"
+  }
+}

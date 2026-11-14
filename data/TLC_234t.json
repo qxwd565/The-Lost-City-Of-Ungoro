@@ -1,1 +1,56 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_234t","dbfId":118003,"name":"영원한 묘목","type":"MINION","cardClass":"DRUID","collectible":false,"cost":4,"text":"<b>죽음의 메아리:</b> 5/1 영원한 붉은꽃잎을 소환합니다.","attack":0,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS35-134_M.tif:e0baf61d34474e84989f8419e0136533","set":"THE_LOST_CITY","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":4},{"id":217,"name":"죽음의 메아리","value":1},{"id":1078,"name":"마우스를 올리면 카드 표시","value":117653}],"races":[],"race":"","classes":[],"art":"art/TLC_234t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-134_M.tif:e0baf61d34474e84989f8419e0136533","goldenMaterial":"TLC_234t_PremiumCard.mat:9d466a8561b8fd04b9cd5d8c2de1ae77","goldenAnimation":"TLC_234t_PremiumCard.asset:fb5ae03fc25bcba418e707b9427c88ec"}}
+{
+  "2025-07-09": {
+    "id": "TLC_234t",
+    "dbfId": 118003,
+    "name": "영원한 묘목",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "collectible": false,
+    "cost": 4,
+    "text": "<b>죽음의 메아리:</b> 5/1 영원한 붉은꽃잎을 소환합니다.",
+    "attack": 0,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS35-134_M.tif:e0baf61d34474e84989f8419e0136533",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 1078,
+        "name": "마우스를 올리면 카드 표시",
+        "value": 117653
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_234t.png"
+  }
+}

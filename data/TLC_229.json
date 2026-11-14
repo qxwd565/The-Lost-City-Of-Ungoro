@@ -1,1 +1,102 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_229","dbfId":117538,"name":"산의 혼","type":"SPELL","cardClass":"SHAMAN","rarity":"LEGENDARY","collectible":true,"cost":1,"text":"<b>퀘스트:</b> 서로 다른 종족의 하수인을 여섯 내야 합니다.\n<b>보상:</b> 아샬론","attack":0,"health":0,"durability":0,"armor":0,"flavor":"10일째. 브랄마라는 토르톨란이 니리와 엘리스, 나를 산속 깊이 데려갔다. 그녀는 토르톨란들이 \"용암수로\"를 통해 화산 아래에서 용암을 위로 옮기는 것을 보여 주었다. 나는 그곳에 화산사우루스 무리가 사는 것을 보고 깜짝 놀랐다!","spellSchool":"","portrait":"HS35-060_S.tif:f3b783ddcdca417bba9a63c52b1edf6a","set":"THE_LOST_CITY","nativeTags":[{"id":2,"name":"효과 수치 1","value":0},{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":8},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":5},{"id":321,"name":"수집 가능","value":1},{"id":462,"name":"퀘스트","value":1},{"id":535,"name":"퀘스트 완료 조건","value":6},{"id":676,"name":"무작위 선택 제외","value":1},{"id":839,"name":"게임 태그 839","value":1},{"id":1089,"name":"퀘스트 보상 데이터베이스 ID","value":120778},{"id":2589,"name":"간판 카드 존재","value":1},{"id":3674,"name":"게임 태그 3674","value":1},{"id":4297,"name":"게임 태그 4297","value":1}],"races":[],"race":"","classes":[],"art":"art/TLC_229.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-060_S.tif:f3b783ddcdca417bba9a63c52b1edf6a","goldenMaterial":"TLC_229_PremiumCard.mat:73723612c80efa14492afec3c29da227","goldenAnimation":"TLC_229_PremiumCard.asset:c2c3ff33ae296b249b6427a32d7067d0"}}
+{
+  "2025-07-09": {
+    "id": "TLC_229",
+    "dbfId": 117538,
+    "name": "산의 혼",
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>퀘스트:</b> 서로 다른 종족의 하수인을 여섯 내야 합니다.<br></br><b>보상:</b> 아샬론",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "10일째. 브랄마라는 토르톨란이 니리와 엘리스, 나를 산속 깊이 데려갔다. 그녀는 토르톨란들이 \"용암수로\"를 통해 화산 아래에서 용암을 위로 옮기는 것을 보여 주었다. 나는 그곳에 화산사우루스 무리가 사는 것을 보고 깜짝 놀랐다!",
+    "spellSchool": "",
+    "portrait": "HS35-060_S.tif:f3b783ddcdca417bba9a63c52b1edf6a",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 0
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 462,
+        "name": "퀘스트",
+        "value": 1
+      },
+      {
+        "id": 535,
+        "name": "퀘스트 완료 조건",
+        "value": 6
+      },
+      {
+        "id": 676,
+        "name": "무작위 선택 제외",
+        "value": 1
+      },
+      {
+        "id": 839,
+        "name": "게임 태그 839",
+        "value": 1
+      },
+      {
+        "id": 1089,
+        "name": "퀘스트 보상 데이터베이스 ID",
+        "value": 120778
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      },
+      {
+        "id": 3674,
+        "name": "게임 태그 3674",
+        "value": 1
+      },
+      {
+        "id": 4297,
+        "name": "게임 태그 4297",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_229.png"
+  }
+}

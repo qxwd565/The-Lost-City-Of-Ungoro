@@ -1,1 +1,57 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"DINO_402","dbfId":118406,"name":"박쥐 가면","type":"SPELL","cardClass":"WARLOCK","rarity":"COMMON","collectible":true,"cost":8,"text":"아군 하수인의 능력치를 1/1로 만듭니다. 그 하수인을 복사하여 내 전장을 가득 채웁니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"루어모듈의 효력이 끝났습니다.","spellSchool":"","portrait":"HS35-329_S.tif:4e5b0a06b170423fb0b48b10b508657e","set":"THE_LOST_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":8},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/DINO_402.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-329_S.tif:4e5b0a06b170423fb0b48b10b508657e","goldenMaterial":"DINO_402_PremiumCard.mat:458d8a0aaeffb914eb3142a708f56fb6","goldenAnimation":"DINO_402_PremiumCard.asset:e26d8991952547b469a574fa58dc84d6"}}
+{
+  "2025-09-03": {
+    "id": "DINO_402",
+    "dbfId": 118406,
+    "name": "박쥐 가면",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 8,
+    "text": "아군 하수인의 능력치를 1/1로 만듭니다. 그 하수인을 복사하여 내 전장을 가득 채웁니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "루어모듈의 효력이 끝났습니다.",
+    "spellSchool": "",
+    "portrait": "HS35-329_S.tif:4e5b0a06b170423fb0b48b10b508657e",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 8
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/DINO_402.png"
+  }
+}

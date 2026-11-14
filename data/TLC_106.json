@@ -1,1 +1,87 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_106","dbfId":117877,"name":"최후의 인도자 움브라","type":"MINION","cardClass":"NEUTRAL","rarity":"LEGENDARY","collectible":true,"cost":7,"text":"<b>전투의 함성:</b> 이번 게임에서 죽은 아군 하수인 다섯의 <b>죽음의 메아리</b> 능력을 발동시킵니다.","attack":6,"health":6,"durability":0,"armor":0,"flavor":"오랫동안 추방 생활을 한 움브라는 마침내 도시로 돌아가게 되었습니다. 도착하면 토르톨란들이 받아야 마땅한 것을 받도록 할 작정입니다...","spellSchool":"","portrait":"HS35-102_M.tif:b9c70b608f1f4c8dbb9a409cfe59c421","set":"THE_LOST_CITY","nativeTags":[{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":6},{"id":48,"name":"마나 비용","value":7},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":217,"name":"죽음의 메아리","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1932,"name":"다이아몬드 카드 존재","value":1},{"id":2589,"name":"간판 카드 존재","value":1}],"races":[],"race":"","classes":[],"art":"art/TLC_106.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-102_M.tif:b9c70b608f1f4c8dbb9a409cfe59c421","goldenMaterial":"TLC_106_PremiumCard.mat:60eb786fb7066b14c8c63c4bb5ca3cf8","goldenAnimation":"TLC_106_PremiumCard.asset:9fe45f566e0a83d43bd92bcd0cf76d5f"}}
+{
+  "2025-06-03": {
+    "id": "TLC_106",
+    "dbfId": 117877,
+    "name": "최후의 인도자 움브라",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 7,
+    "text": "<b>전투의 함성:</b> 이번 게임에서 죽은 아군 하수인 다섯의 <b>죽음의 메아리</b> 능력을 발동시킵니다.",
+    "attack": 6,
+    "health": 6,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "오랫동안 추방 생활을 한 움브라는 마침내 도시로 돌아가게 되었습니다. 도착하면 토르톨란들이 받아야 마땅한 것을 받도록 할 작정입니다...",
+    "spellSchool": "",
+    "portrait": "HS35-102_M.tif:b9c70b608f1f4c8dbb9a409cfe59c421",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 6
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1932,
+        "name": "다이아몬드 카드 존재",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_106.png"
+  }
+}

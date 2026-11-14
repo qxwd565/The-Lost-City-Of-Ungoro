@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_818","dbfId":117557,"name":"소생술","type":"SPELL","cardClass":"PRIEST","rarity":"EPIC","collectible":true,"cost":6,"text":"비용이 1, 2, 3인 하수인을 부활시킵니다. 그 하수인에게 <b>환생</b>을 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"이 진흙 목욕을 하면 정말 환생한 기분이 듭니다.","spellSchool":"SHADOW","portrait":"HS35-160_S.tif:1956fe441daa45fda7c1524b576fafe8","set":"THE_LOST_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":6},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":1085,"name":"환생","value":1},{"id":1635,"name":"주문 속성","value":6}],"races":[],"race":"","classes":[],"art":"art/TLC_818.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-160_S.tif:1956fe441daa45fda7c1524b576fafe8","goldenMaterial":"TLC_818_PremiumCard.mat:923110f1716995041a9fa68a76df9c27","goldenAnimation":"TLC_818_PremiumCard.asset:5973872439d8c9a4381d8440c4239049"}}
+{
+  "2025-07-09": {
+    "id": "TLC_818",
+    "dbfId": 117557,
+    "name": "소생술",
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 6,
+    "text": "비용이 1, 2, 3인 하수인을 부활시킵니다. 그 하수인에게 <b>환생</b>을 부여합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "이 진흙 목욕을 하면 정말 환생한 기분이 듭니다.",
+    "spellSchool": "SHADOW",
+    "portrait": "HS35-160_S.tif:1956fe441daa45fda7c1524b576fafe8",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1085,
+        "name": "환생",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_818.png"
+  }
+}

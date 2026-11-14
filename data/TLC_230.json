@@ -1,1 +1,57 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_230","dbfId":117646,"name":"나무들이다아아!","type":"SPELL","cardClass":"DRUID","rarity":"COMMON","collectible":true,"cost":5,"text":"하수인을 선택합니다.\n그 하수인을 공격하는\n2/2 나무정령을 넷\n소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"이것도 광합성해 봐라, 이 멍청아!","spellSchool":"NATURE","portrait":"HS35-017_S.tif:07aa8613997343469d4f7d5337313d77","set":"THE_LOST_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":4}],"races":[],"race":"","classes":[],"art":"art/TLC_230.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-017_S.tif:07aa8613997343469d4f7d5337313d77","goldenMaterial":"TLC_230_PremiumCard.mat:4b03285f08f67764c9e87ae0647a6d02","goldenAnimation":"TLC_230_PremiumCard.asset:148d539419e811547a9417b8cdd27b78"}}
+{
+  "2025-07-09": {
+    "id": "TLC_230",
+    "dbfId": 117646,
+    "name": "나무들이다아아!",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 5,
+    "text": "하수인을 선택합니다.<br></br>그 하수인을 공격하는<br></br>2/2 나무정령을 넷<br></br>소환합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "이것도 광합성해 봐라, 이 멍청아!",
+    "spellSchool": "NATURE",
+    "portrait": "HS35-017_S.tif:07aa8613997343469d4f7d5337313d77",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 4
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_230.png"
+  }
+}

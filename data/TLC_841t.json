@@ -1,1 +1,51 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_841t","dbfId":120598,"name":"표본 병","type":"MINION","cardClass":"DEMONHUNTER","collectible":false,"cost":1,"text":"<b>죽음의 메아리:</b> 아무것도\n나오지 않습니다.\n<i>(그냥 빈 병입니다.)</i>","attack":0,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS35-130_M.tif:86087f186fe84347a3615418a0282b04","set":"THE_LOST_CITY","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":14},{"id":202,"name":"카드 유형","value":4},{"id":1724,"name":"게임 태그 1724","value":1}],"races":[],"race":"","classes":[],"art":"art/TLC_841t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-130_M.tif:86087f186fe84347a3615418a0282b04","goldenMaterial":"TLC_841t_PremiumCard.mat:103996c6c0ea22b43bd3211217c5b49a","goldenAnimation":"TLC_841t_PremiumCard.asset:879581d7145a21349a1913db04a84fc8"}}
+{
+  "2025-07-09": {
+    "id": "TLC_841t",
+    "dbfId": 120598,
+    "name": "표본 병",
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "collectible": false,
+    "cost": 1,
+    "text": "<b>죽음의 메아리:</b> 아무것도<br></br>나오지 않습니다.<br></br><i>(그냥 빈 병입니다.)</i>",
+    "attack": 0,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS35-130_M.tif:86087f186fe84347a3615418a0282b04",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 1724,
+        "name": "게임 태그 1724",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_841t.png"
+  }
+}

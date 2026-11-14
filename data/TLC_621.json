@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_621","dbfId":117916,"name":"의지의 감시자","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":4,"text":"<b>도발</b>, <b>죽음의 메아리:</b>\n내 덱의 다음 카드 3장을 파괴합니다.","attack":4,"health":7,"durability":0,"armor":0,"flavor":"칼은 왜 갖고 있는지 모르겠습니다. 수많은 전투에 참여했지만 늘 감시만 했거든요.","spellSchool":"","portrait":"HS35-082_M.tif:1f0f20ca2bc84782b4a97025ed080d9b","set":"THE_LOST_CITY","nativeTags":[{"id":45,"name":"생명력","value":7},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":4},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/TLC_621.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-082_M.tif:1f0f20ca2bc84782b4a97025ed080d9b","goldenMaterial":"TLC_621_PremiumCard.mat:0338f6e7a2c947246ad82d45dfa5ef4c","goldenAnimation":"TLC_621_PremiumCard.asset:b76c8a1975faf5346928e1d71210688f"}}
+{
+  "2025-07-09": {
+    "id": "TLC_621",
+    "dbfId": 117916,
+    "name": "의지의 감시자",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>도발</b>, <b>죽음의 메아리:</b><br></br>내 덱의 다음 카드 3장을 파괴합니다.",
+    "attack": 4,
+    "health": 7,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "칼은 왜 갖고 있는지 모르겠습니다. 수많은 전투에 참여했지만 늘 감시만 했거든요.",
+    "spellSchool": "",
+    "portrait": "HS35-082_M.tif:1f0f20ca2bc84782b4a97025ed080d9b",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 7
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_621.png"
+  }
+}

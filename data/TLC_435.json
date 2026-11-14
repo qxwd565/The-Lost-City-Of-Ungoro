@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_435","dbfId":117431,"name":"납골당 지도","type":"SPELL","cardClass":"DEATHKNIGHT","rarity":"COMMON","collectible":true,"cost":1,"text":"냉기 룬 카드를 <b>발견</b>합니다. 이번 턴에 그 카드를 내면, 나머지 카드 중 하나도 선택합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"미로를 빠져나가는 방법은 쉽습니다. 왼쪽 벽에 계속 손을 대고 있고, 공룡에게 잡아먹히지만 않으면 됩니다!","spellSchool":"","portrait":"HS35-121_S.tif:d43fc1fbd7674ddcb4a57bb0a899ef88","set":"THE_LOST_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":1},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":415,"name":"발견","value":1},{"id":1342,"name":"발견 시각 효과","value":1},{"id":2197,"name":"냉기 룬","value":2}],"races":[],"race":"","classes":[],"art":"art/TLC_435.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-121_S.tif:d43fc1fbd7674ddcb4a57bb0a899ef88","goldenMaterial":"TLC_435_PremiumCard.mat:c11db6afa3b865a46b3ece1dc9ee9b75","goldenAnimation":"TLC_435_PremiumCard.asset:5fce6169a3717b544a816b424c53f105"}}
+{
+  "2025-07-09": {
+    "id": "TLC_435",
+    "dbfId": 117431,
+    "name": "납골당 지도",
+    "type": "SPELL",
+    "cardClass": "DEATHKNIGHT",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "냉기 룬 카드를 <b>발견</b>합니다. 이번 턴에 그 카드를 내면, 나머지 카드 중 하나도 선택합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "미로를 빠져나가는 방법은 쉽습니다. 왼쪽 벽에 계속 손을 대고 있고, 공룡에게 잡아먹히지만 않으면 됩니다!",
+    "spellSchool": "",
+    "portrait": "HS35-121_S.tif:d43fc1fbd7674ddcb4a57bb0a899ef88",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 1
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      },
+      {
+        "id": 2197,
+        "name": "냉기 룬",
+        "value": 2
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_435.png"
+  }
+}

@@ -1,1 +1,69 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_443t","dbfId":117711,"name":"되살아난 오소돈","type":"MINION","cardClass":"DEATHKNIGHT","collectible":false,"cost":2,"text":"<b>도발</b>","attack":2,"health":2,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS35-001_M.tif:7ffed8cbd5de4817a1e6c9de48f6f1e6","set":"THE_LOST_CITY","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":1},{"id":200,"name":"종족","value":11},{"id":202,"name":"카드 유형","value":4},{"id":2542,"name":"게임 태그 2542","value":1}],"races":["UNDEAD","BEAST"],"race":"언데드, 야수","classes":[],"art":"art/TLC_443t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-001_M.tif:7ffed8cbd5de4817a1e6c9de48f6f1e6","goldenMaterial":"TLC_443t_PremiumCard.mat:39684f94c67e2aa48be6c5199de3fc5a","goldenAnimation":"TLC_443t_PremiumCard.asset:33e6bcae7bce6414b9295c8e2fd0cc73"}}
+{
+  "2025-07-09": {
+    "id": "TLC_443t",
+    "dbfId": 117711,
+    "name": "되살아난 오소돈",
+    "type": "MINION",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": false,
+    "cost": 2,
+    "text": "<b>도발</b>",
+    "attack": 2,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS35-001_M.tif:7ffed8cbd5de4817a1e6c9de48f6f1e6",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 1
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 11
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 2542,
+        "name": "게임 태그 2542",
+        "value": 1
+      }
+    ],
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "race": "언데드, 야수",
+    "classes": [],
+    "art": "art/TLC_443t.png"
+  }
+}

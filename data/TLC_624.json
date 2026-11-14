@@ -1,1 +1,82 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_624","dbfId":117919,"name":"감시자 나블리아","type":"MINION","cardClass":"WARRIOR","rarity":"LEGENDARY","collectible":true,"cost":6,"text":"<b>전투의 함성:</b> 피해를 받은\n내 하수인들을 복사하여\n소환합니다. 복사한 하수인들에게\n<b>속공</b>을 부여합니다.","attack":5,"health":7,"durability":0,"armor":0,"flavor":"물론 티탄이 운고로 분화구 관리를 토르톨란에게 맡긴 건 사실입니다. 나블리아는 <i>만일의 사태</i>에 대비해서 파견된 것입니다.","spellSchool":"","portrait":"HS35-073_M.tif:8fedfa2b5ef443309104dfa8a56f8af2","set":"THE_LOST_CITY","nativeTags":[{"id":45,"name":"생명력","value":7},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":6},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":10},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":791,"name":"속공","value":1},{"id":2589,"name":"간판 카드 존재","value":1}],"races":[],"race":"","classes":[],"art":"art/TLC_624.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-073_M.tif:8fedfa2b5ef443309104dfa8a56f8af2","goldenMaterial":"TLC_624_PremiumCard.mat:4cc0d8cbaee79484eafb9516177b9ecf","goldenAnimation":"TLC_624_PremiumCard.asset:4e9ae2aca7a35b545997873e815b5c88"}}
+{
+  "2025-07-09": {
+    "id": "TLC_624",
+    "dbfId": 117919,
+    "name": "감시자 나블리아",
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>전투의 함성:</b> 피해를 받은<br></br>내 하수인들을 복사하여<br></br>소환합니다. 복사한 하수인들에게<br></br><b>속공</b>을 부여합니다.",
+    "attack": 5,
+    "health": 7,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "물론 티탄이 운고로 분화구 관리를 토르톨란에게 맡긴 건 사실입니다. 나블리아는 <i>만일의 사태</i>에 대비해서 파견된 것입니다.",
+    "spellSchool": "",
+    "portrait": "HS35-073_M.tif:8fedfa2b5ef443309104dfa8a56f8af2",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 7
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_624.png"
+  }
+}

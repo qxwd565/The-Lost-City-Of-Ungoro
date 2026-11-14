@@ -1,1 +1,66 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_460t","dbfId":118191,"name":"기원의 돌","type":"WEAPON","cardClass":"MAGE","collectible":false,"cost":3,"text":"내가 카드를 <b>발견</b>한 후에\n이 무기가 선택하지 않은\n카드들을 냅니다. 내구도를 1\n잃습니다.","attack":0,"health":0,"durability":8,"armor":0,"flavor":"","spellSchool":"","portrait":"HS35-145_W.tif:a07bf9e75b3d4d97b208319b5f8a1477","set":"THE_LOST_CITY","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":8},{"id":48,"name":"마나 비용","value":3},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":7},{"id":415,"name":"발견","value":1},{"id":2589,"name":"간판 카드 존재","value":1}],"races":[],"race":"","classes":[],"art":"art/TLC_460t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-145_W.tif:a07bf9e75b3d4d97b208319b5f8a1477","goldenMaterial":"TLC_460t_PremiumCard.mat:a5cd19ad75be86a49b83276f1c485a7f","goldenAnimation":"TLC_460t_PremiumCard.asset:8ef8301fae902c14a9e026ed89fed0a5"}}
+{
+  "2025-07-09": {
+    "id": "TLC_460t",
+    "dbfId": 118191,
+    "name": "기원의 돌",
+    "type": "WEAPON",
+    "cardClass": "MAGE",
+    "collectible": false,
+    "cost": 3,
+    "text": "내가 카드를 <b>발견</b>한 후에<br></br>이 무기가 선택하지 않은<br></br>카드들을 냅니다. 내구도를 1<br></br>잃습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 8,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS35-145_W.tif:a07bf9e75b3d4d97b208319b5f8a1477",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 8
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 7
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_460t.png"
+  }
+}

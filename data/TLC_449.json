@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_449","dbfId":117837,"name":"핏빛꽃잎 생태계","type":"LOCATION","cardClass":"WARLOCK","rarity":"RARE","collectible":true,"cost":1,"text":"비용이 1인 <b>일시적</b> 하수인을 <b>발견</b>합니다.","attack":0,"health":2,"durability":2,"armor":0,"flavor":"발진이 일시적인 게 아닌 것 같습니다.","spellSchool":"","portrait":"HS35-064_L.tif:b37ef1b6ed2f4c7686c5abfffc0ad551","set":"THE_LOST_CITY","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":39},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":415,"name":"발견","value":1},{"id":1342,"name":"발견 시각 효과","value":1},{"id":3630,"name":"게임 태그 3630","value":1}],"races":[],"race":"","classes":[],"art":"art/TLC_449.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-064_L.tif:b37ef1b6ed2f4c7686c5abfffc0ad551","goldenMaterial":"TLC_449_PremiumCard.mat:6067512ab29f2b04fa1242131d10c10e","goldenAnimation":"TLC_449_PremiumCard.asset:ee97a86de66de6c4db7598b0f50e020f"}}
+{
+  "2025-07-09": {
+    "id": "TLC_449",
+    "dbfId": 117837,
+    "name": "핏빛꽃잎 생태계",
+    "type": "LOCATION",
+    "cardClass": "WARLOCK",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 1,
+    "text": "비용이 1인 <b>일시적</b> 하수인을 <b>발견</b>합니다.",
+    "attack": 0,
+    "health": 2,
+    "durability": 2,
+    "armor": 0,
+    "flavor": "발진이 일시적인 게 아닌 것 같습니다.",
+    "spellSchool": "",
+    "portrait": "HS35-064_L.tif:b37ef1b6ed2f4c7686c5abfffc0ad551",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 39
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      },
+      {
+        "id": 3630,
+        "name": "게임 태그 3630",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_449.png"
+  }
+}

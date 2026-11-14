@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TLC_466","dbfId":118243,"name":"락카리의 이야기","type":"SPELL","cardClass":"WARLOCK","rarity":"RARE","collectible":true,"cost":7,"text":"내 턴이 끝날 때 카드를\n버리고 내 전장을 3/2\n임프로 가득 채웁니다.\n3턴 동안 지속됩니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"우와. 토르톨란은 이 이야기를 정말 소중히 간직합니다.","spellSchool":"","portrait":"HS35-177_S.tif:6a1fafdceefd475a9502097604cd3292","set":"THE_LOST_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":7},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":535,"name":"퀘스트 완료 조건","value":3},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":42753},{"id":2311,"name":"목표","value":1}],"races":[],"race":"","classes":[],"art":"art/TLC_466.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS35-177_S.tif:6a1fafdceefd475a9502097604cd3292","goldenMaterial":"TLC_466_PremiumCard.mat:76212a5da0342eb41ac712df5ab242d3","goldenAnimation":"TLC_466_PremiumCard.asset:7cc7f212bbc328842805451b1bca85e8"}}
+{
+  "2025-07-09": {
+    "id": "TLC_466",
+    "dbfId": 118243,
+    "name": "락카리의 이야기",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 7,
+    "text": "내 턴이 끝날 때 카드를<br></br>버리고 내 전장을 3/2<br></br>임프로 가득 채웁니다.<br></br>3턴 동안 지속됩니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "우와. 토르톨란은 이 이야기를 정말 소중히 간직합니다.",
+    "spellSchool": "",
+    "portrait": "HS35-177_S.tif:6a1fafdceefd475a9502097604cd3292",
+    "set": "THE_LOST_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 535,
+        "name": "퀘스트 완료 조건",
+        "value": 3
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 42753
+      },
+      {
+        "id": 2311,
+        "name": "목표",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TLC_466.png"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "prefixes": {
+    "TLC": {
+      "date": "2025-07-09",
+      "status": "verified"
+    },
+    "DINO": {
+      "date": "2025-09-03",
+      "status": "verified"
+    }
+  },
+  "cards": {
+    "TLC_106": {
+      "date": "2025-06-03",
+      "status": "verified"
+    }
+  },
+  "sources": {
+    "TLC": "https://hearthstone.blizzard.com/ko-kr/news/24217842",
+    "DINO": "https://hearthstone.blizzard.com/ko-kr/news/24229030",
+    "TLC_106": "https://hearthstone.blizzard.com/ko-kr/news/24205006"
+  }
+}
